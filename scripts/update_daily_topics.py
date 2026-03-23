@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import json
 import re
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -12,6 +13,11 @@ OUTPUT_PATH = Path("data/daily-topics.json")
 
 def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", value or "").strip()
+
+
+def build_news_url(keyword: str) -> str:
+    query = urllib.parse.quote_plus(keyword)
+    return f"https://news.google.com/search?q={query}&hl=ko&gl=KR&ceid=KR:ko"
 
 
 def fetch_trending_titles() -> list[str]:
@@ -45,6 +51,7 @@ def build_topics(titles: list[str]) -> list[dict]:
             {
                 "title": title,
                 "summary": "오늘 급상승 검색어 기반 주제",
+                "news_url": build_news_url(title),
             }
         )
 
@@ -56,7 +63,13 @@ def build_topics(titles: list[str]) -> list[dict]:
         for title in fallback:
             if len(topics) == 5:
                 break
-            topics.append({"title": title, "summary": "핵심 생활 정보 주제"})
+            topics.append(
+                {
+                    "title": title,
+                    "summary": "핵심 생활 정보 주제",
+                    "news_url": build_news_url(title),
+                }
+            )
 
     return topics
 

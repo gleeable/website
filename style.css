@@ -507,3 +507,15 @@ summary {
   color: var(--muted);
   font-size: 0.9rem;
 }
+
+.topic-news-link {
+  display: inline-flex;
+  margin-top: 8px;
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.topic-news-link:hover {
+  text-decoration: underline;
+}

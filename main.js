@@ -30,6 +30,11 @@ revealElements.forEach((element, index) => {
 
 const normalize = (value) => (value || "").toLowerCase().trim();
 
+const buildGoogleNewsUrl = (keyword) => {
+  const query = encodeURIComponent(keyword || "");
+  return `https://news.google.com/search?q=${query}&hl=ko&gl=KR&ceid=KR:ko`;
+};
+
 const renderCards = () => {
   let visibleCount = 0;
 
@@ -80,6 +85,7 @@ const loadDailyTopics = async () => {
 
       const titleEl = card.querySelector("h3");
       const descEl = card.querySelector("p");
+      const linkEl = card.querySelector(".topic-news-link");
 
       if (titleEl && topic.title) {
         titleEl.textContent = topic.title;
@@ -87,6 +93,11 @@ const loadDailyTopics = async () => {
 
       if (descEl && topic.summary) {
         descEl.textContent = topic.summary;
+      }
+
+      if (linkEl) {
+        const newsUrl = topic.news_url || buildGoogleNewsUrl(topic.title || "뉴스");
+        linkEl.href = newsUrl;
       }
     });
 
