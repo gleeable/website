@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta
     name="description"
-    content="위고인은 팀과 아이디어가 더 빠르게 실행되도록 돕는 실행 중심 파트너입니다."
+    content="IDKWELL은 돈관리, 건강, 커리어, 디지털, 생활 팁을 검증된 기준으로 정리하는 실전 생활 가이드 허브입니다."
   />
   <meta name="google-adsense-account" content="ca-pub-3212777380365712" />
   <script
@@ -13,176 +13,389 @@
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3212777380365712"
     crossorigin="anonymous"
   ></script>
-  <title>위고인 | 실행이 움직이는 순간</title>
+  <title>IDKWELL | 사람들이 매일 찾는 실전 생활 가이드</title>
   <link href="/style.css" rel="stylesheet" />
 </head>
 <body>
-  <div class="page-shell">
-    <header class="hero section" data-reveal>
-      <nav class="topbar">
-        <div class="brand-mark">
-          <span class="brand-dot"></span>
-          <span class="brand-name">WEGOIN</span>
-        </div>
-        <a class="top-link" href="#contact">문의하기</a>
-      </nav>
+  <div class="bg-orb bg-orb-a"></div>
+  <div class="bg-orb bg-orb-b"></div>
 
-      <div class="hero-grid">
-        <div class="hero-copy">
-          <p class="eyebrow">EXECUTION PARTNER FOR BOLD TEAMS</p>
-          <h1>위고인은 멈춘 기획을 실제 움직임으로 바꿉니다.</h1>
-          <p class="hero-text">
-            아이디어는 많지만 실행 속도가 부족한 팀을 위해, 위고인은 기획 정리부터
-            제작, 공개 직전 점검까지 한 흐름으로 연결합니다.
-          </p>
+  <header class="top-header" data-reveal>
+    <div class="brand-line">
+      <a class="brand" href="#home">IDKWELL</a>
+      <p class="tag">Daily Practical Knowledge</p>
+    </div>
+    <nav class="global-nav" aria-label="주요 메뉴">
+      <a href="#topics">주제</a>
+      <a href="#featured">인기 글</a>
+      <a href="#guides">가이드</a>
+      <a href="#about">운영 원칙</a>
+      <a href="#contact">문의</a>
+    </nav>
+  </header>
 
-          <div class="hero-actions">
-            <a class="button primary" href="#services">무엇을 하는지 보기</a>
-            <a class="button secondary" href="#contact">바로 시작하기</a>
-          </div>
-        </div>
-
-        <aside class="hero-panel" data-reveal>
-          <p class="panel-label">FAST TRACK</p>
-          <ul class="panel-list">
-            <li>명확한 목표 정리</li>
-            <li>브랜드 톤에 맞는 페이지 제작</li>
-            <li>빠른 배포와 반복 개선</li>
-          </ul>
-          <div class="panel-metric">
-            <strong data-count="7">0</strong>
-            <span>일 안에 첫 공개안 도출</span>
-          </div>
-        </aside>
-      </div>
-    </header>
-
-    <main>
-      <section class="section intro-strip" data-reveal>
-        <p>
-          아이디어를 계속 설명하는 단계에서 끝내지 않고, 실제 화면과 사용자 경험으로
-          보여주는 것이 위고인의 방식입니다.
+  <main id="home" class="layout">
+    <section class="hero card" data-reveal>
+      <div>
+        <p class="kicker">대중적으로 가장 많이 찾는 핵심 주제만 선별</p>
+        <h1>돈, 건강, 일, 디지털, 생활 문제를<br />실제로 해결하는 사이트</h1>
+        <p class="lead">
+          IDKWELL은 검색량이 높은 생활 질문을 수집하고, 실행 가능한 단계로 정리해
+          제공합니다. 얇은 요약이 아닌 실제 행동 체크리스트 중심의 글만 발행합니다.
         </p>
-      </section>
+      </div>
+      <form class="search-box" role="search" aria-label="글 검색">
+        <label for="articleSearch">필요한 주제를 검색하세요</label>
+        <input
+          id="articleSearch"
+          type="search"
+          placeholder="예: 예산 관리, 혈당, 이직 준비, 와이파이 느림"
+        />
+      </form>
+      <ul class="metrics">
+        <li>
+          <strong>5개</strong>
+          <span>핵심 카테고리</span>
+        </li>
+        <li>
+          <strong>주 3회</strong>
+          <span>콘텐츠 업데이트</span>
+        </li>
+        <li>
+          <strong>체크리스트</strong>
+          <span>실행형 문서 포맷</span>
+        </li>
+      </ul>
+    </section>
 
+    <section class="card" id="topics" data-reveal>
+      <div class="section-head">
+        <p class="kicker">TOP CATEGORIES</p>
+        <h2>검색 수요가 높은 5대 주제</h2>
+      </div>
+      <div class="chip-row" role="tablist" aria-label="카테고리 필터">
+        <button class="chip is-active" data-filter="all" type="button">전체</button>
+        <button class="chip" data-filter="finance" type="button">돈관리</button>
+        <button class="chip" data-filter="health" type="button">건강관리</button>
+        <button class="chip" data-filter="career" type="button">커리어</button>
+        <button class="chip" data-filter="digital" type="button">디지털</button>
+        <button class="chip" data-filter="lifestyle" type="button">생활팁</button>
+      </div>
+      <div class="topic-grid">
+        <article class="topic-card" data-reveal>
+          <h3>돈관리</h3>
+          <p>가계부 템플릿, 카드값 통제, 자동이체 점검, 비상금 운영 방식.</p>
+        </article>
+        <article class="topic-card" data-reveal>
+          <h3>건강관리</h3>
+          <p>수면, 식단, 걷기, 기본 검사 해석 등 일상에서 바로 적용 가능한 습관.</p>
+        </article>
+        <article class="topic-card" data-reveal>
+          <h3>커리어</h3>
+          <p>이직 준비 로드맵, 면접 복기, 포트폴리오 구조, 생산성 루틴.</p>
+        </article>
+        <article class="topic-card" data-reveal>
+          <h3>디지털</h3>
+          <p>스마트폰 느림 해결, 보안 점검, 백업, 계정 관리, AI 도구 실전 활용.</p>
+        </article>
+        <article class="topic-card" data-reveal>
+          <h3>생활팁</h3>
+          <p>청소·정리·요리·시간관리 등 일상 반복 비용을 줄이는 현실적인 방법.</p>
+        </article>
+      </div>
+    </section>
 
-      <section class="section services" id="services">
-        <div class="section-heading" data-reveal>
-          <p class="eyebrow">CORE SERVICES</p>
-          <h2>필요한 만큼만 정리하고, 바로 만들고, 바로 공개합니다.</h2>
-        </div>
-
-        <div class="card-grid">
-          <article class="info-card" data-reveal>
-            <span class="card-index">01</span>
-            <h3>브랜드 페이지 제작</h3>
-            <p>첫인상이 중요한 랜딩 페이지를 브랜드 분위기에 맞춰 설계합니다.</p>
-          </article>
-          <article class="info-card" data-reveal>
-            <span class="card-index">02</span>
-            <h3>콘텐츠 구조 정리</h3>
-            <p>복잡한 메시지를 읽히는 흐름으로 단순화해 전달력을 높입니다.</p>
-          </article>
-          <article class="info-card" data-reveal>
-            <span class="card-index">03</span>
-            <h3>빠른 공개 지원</h3>
-            <p>작업이 끝나는 데서 멈추지 않고 실제 게시 가능한 상태까지 맞춥니다.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="section ad-section" aria-label="광고">
-        <ins
-          class="adsbygoogle"
-          style="display: block"
-          data-ad-client="ca-pub-3212777380365712"
-          data-ad-slot="2293092702"
-          data-ad-format="auto"
-          data-full-width-responsive="true"
-        ></ins>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-      </section>
-
-      <section class="section process">
-        <div class="section-heading" data-reveal>
-          <p class="eyebrow">HOW WE MOVE</p>
-          <h2>복잡한 프로세스보다, 팀이 바로 체감할 수 있는 속도를 만듭니다.</h2>
-        </div>
-
-        <div class="timeline">
-          <article class="timeline-step" data-reveal>
-            <span>STEP 1</span>
-            <h3>핵심만 정의</h3>
-            <p>목표, 대상, 전달 메시지를 짧고 명확하게 정리합니다.</p>
-          </article>
-          <article class="timeline-step" data-reveal>
-            <span>STEP 2</span>
-            <h3>바로 시안 제작</h3>
-            <p>회의 자료가 아닌 실제 화면 기준으로 빠르게 첫 안을 만듭니다.</p>
-          </article>
-          <article class="timeline-step" data-reveal>
-            <span>STEP 3</span>
-            <h3>공개 기준 점검</h3>
-            <p>카피, 레이아웃, 반응형, 배포 흐름까지 실사용 기준으로 다듬습니다.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="section contact" id="contact" data-reveal>
-        <div class="contact-copy">
-          <p class="eyebrow">START NOW</p>
-          <h2>위고인과 함께 다음 화면을 실제로 꺼내보세요.</h2>
-          <p>
-            제휴 목적, 현재 상황, 원하는 협업 방식만 간단히 남겨주시면 확인 후
-            연락드리겠습니다.
-          </p>
-        </div>
-        <form
-          class="contact-form"
-          action="https://formspree.io/f/xaqpgzgn"
-          method="POST"
+    <section class="card" id="featured" data-reveal>
+      <div class="section-head">
+        <p class="kicker">FEATURED ARTICLES</p>
+        <h2>지금 가장 많이 찾는 실전 콘텐츠</h2>
+      </div>
+      <div class="article-grid" id="articleGrid">
+        <article
+          class="article-card"
+          data-category="finance"
+          data-keywords="돈관리 예산 가계부 소비 비상금"
+          data-reveal
         >
-          <input type="hidden" name="_subject" value="위고인 제휴 문의" />
+          <p class="meta">돈관리 · 8분 읽기</p>
+          <h3>월급일 10분 예산 루틴: 통장 4분할로 지출 통제하기</h3>
+          <p>
+            통장을 고정비·생활비·저축·비상금으로 나누고 자동이체를 재배치하는 방식으로,
+            무의식적 과소비를 줄이는 루틴을 단계별로 정리합니다.
+          </p>
+          <a href="#guide-finance">가이드 보기</a>
+        </article>
 
-          <label class="field">
-            <span>이름</span>
-            <input type="text" name="name" placeholder="홍길동" required />
-          </label>
+        <article
+          class="article-card"
+          data-category="health"
+          data-keywords="건강 수면 피로 혈당 걷기 식단"
+          data-reveal
+        >
+          <p class="meta">건강관리 · 7분 읽기</p>
+          <h3>아침 피로 줄이는 3단계: 수면시간보다 중요한 리듬 점검</h3>
+          <p>
+            기상 시간 고정, 카페인 차단 시점, 저녁 광노출 관리만으로 피로 누적을
+            줄이는 기본 프로토콜을 제공합니다.
+          </p>
+          <a href="#guide-health">가이드 보기</a>
+        </article>
 
-          <div class="field-row">
-            <label class="field">
-              <span>이메일</span>
-              <input
-                type="email"
-                name="email"
-                placeholder="name@company.com"
-                required
-              />
-            </label>
+        <article
+          class="article-card"
+          data-category="career"
+          data-keywords="커리어 이직 면접 포트폴리오 경력"
+          data-reveal
+        >
+          <p class="meta">커리어 · 9분 읽기</p>
+          <h3>이직 준비 30일 플랜: 경력정리부터 면접 답변 구조화까지</h3>
+          <p>
+            JD 분석, 핵심 성과 정리, STAR 답변 템플릿으로 이직 준비를 일정표 형태로
+            만드는 방법을 소개합니다.
+          </p>
+          <a href="#guide-career">가이드 보기</a>
+        </article>
 
-            <label class="field">
-              <span>회사명</span>
-              <input type="text" name="company" placeholder="회사 또는 팀 이름" />
-            </label>
-          </div>
+        <article
+          class="article-card"
+          data-category="digital"
+          data-keywords="디지털 스마트폰 와이파이 백업 보안"
+          data-reveal
+        >
+          <p class="meta">디지털 · 6분 읽기</p>
+          <h3>와이파이 느림 해결 체크리스트: 공유기 교체 전 해야 할 6가지</h3>
+          <p>
+            채널 간섭, DNS, 기기별 속도 차이, 펌웨어 업데이트를 먼저 점검해 불필요한
+            비용을 줄이는 방법을 다룹니다.
+          </p>
+          <a href="#guide-digital">가이드 보기</a>
+        </article>
 
-          <label class="field">
-            <span>문의 내용</span>
-            <textarea
-              name="message"
-              rows="6"
-              placeholder="어떤 제휴를 원하시는지, 현재 준비된 내용과 일정이 있다면 함께 적어주세요."
-              required
-            ></textarea>
-          </label>
+        <article
+          class="article-card"
+          data-category="lifestyle"
+          data-keywords="생활팁 청소 정리 시간관리 루틴"
+          data-reveal
+        >
+          <p class="meta">생활팁 · 8분 읽기</p>
+          <h3>주말 2시간 집정리 시스템: 다시 어지럽혀지지 않는 기준 세우기</h3>
+          <p>
+            공간별 물건 한도를 정하고 유지 루틴을 만드는 방식으로, 일회성 청소가
+            아닌 관리 가능한 생활 구조를 만듭니다.
+          </p>
+          <a href="#guide-lifestyle">가이드 보기</a>
+        </article>
 
-          <button class="button primary" type="submit">제휴 문의 보내기</button>
-        </form>
-      </section>
-    </main>
-  </div>
+        <article
+          class="article-card"
+          data-category="finance"
+          data-keywords="돈관리 구독료 고정비 통신비 절약"
+          data-reveal
+        >
+          <p class="meta">돈관리 · 5분 읽기</p>
+          <h3>고정비 절감 우선순위: 통신·구독·보험부터 점검하는 이유</h3>
+          <p>
+            만족도는 유지하면서 매달 빠져나가는 비용을 낮추는 점검표와 협상용 질문을
+            제공합니다.
+          </p>
+          <a href="#guide-finance">가이드 보기</a>
+        </article>
+      </div>
+      <p id="emptyState" class="empty hidden">검색/필터 조건에 맞는 글이 없습니다.</p>
+    </section>
+
+    <section class="section ad-section" aria-label="광고">
+      <ins
+        class="adsbygoogle"
+        style="display: block"
+        data-ad-client="ca-pub-3212777380365712"
+        data-ad-slot="2293092702"
+        data-ad-format="auto"
+        data-full-width-responsive="true"
+      ></ins>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </section>
+
+    <section class="card" id="guides" data-reveal>
+      <div class="section-head">
+        <p class="kicker">DEEP GUIDES</p>
+        <h2>짧은 팁이 아닌 실행형 장문 가이드</h2>
+      </div>
+
+      <article class="guide" id="guide-finance" data-reveal>
+        <h3>가계 안정화 14일 플랜</h3>
+        <ol>
+          <li>최근 30일 지출 내역을 고정비/변동비/충동비로 구분합니다.</li>
+          <li>고정비는 해지·다운그레이드 가능 항목부터 실행합니다.</li>
+          <li>비상금 계좌를 분리하고 사용 조건을 명확히 정합니다.</li>
+          <li>결제일과 월급일 사이 현금흐름 공백을 줄이도록 일정 재배치합니다.</li>
+        </ol>
+      </article>
+
+      <article class="guide" id="guide-health" data-reveal>
+        <h3>일상 건강 회복 루틴</h3>
+        <ol>
+          <li>매일 같은 시간에 일어나 생체 리듬을 고정합니다.</li>
+          <li>아침 햇빛 10분, 저녁 카페인 제한으로 수면 질을 높입니다.</li>
+          <li>식단은 복잡한 제한보다 단백질/채소 비중을 먼저 맞춥니다.</li>
+          <li>주 5일 30분 걷기를 기본선으로 설정합니다.</li>
+        </ol>
+      </article>
+
+      <article class="guide" id="guide-career" data-reveal>
+        <h3>이직 성공률을 높이는 준비법</h3>
+        <ol>
+          <li>지원 직무 공고 20개를 분석해 공통 역량을 추출합니다.</li>
+          <li>경력기술서는 문제-행동-성과 순서로 재작성합니다.</li>
+          <li>면접 질문 15개를 예상하고 음성 녹음으로 답변 밀도를 점검합니다.</li>
+          <li>포트폴리오는 결과물보다 의사결정 과정을 강조합니다.</li>
+        </ol>
+      </article>
+
+      <article class="guide" id="guide-digital" data-reveal>
+        <h3>디지털 정리 기본점검</h3>
+        <ol>
+          <li>중요 계정부터 2단계 인증을 활성화합니다.</li>
+          <li>사진/문서는 월 1회 외부 백업 규칙을 만듭니다.</li>
+          <li>불필요한 앱 권한을 정리해 배터리와 보안을 개선합니다.</li>
+          <li>느린 네트워크는 공유기 위치·채널·펌웨어부터 확인합니다.</li>
+        </ol>
+      </article>
+
+      <article class="guide" id="guide-lifestyle" data-reveal>
+        <h3>생활 효율을 높이는 루틴 설계</h3>
+        <ol>
+          <li>평일 15분 리셋 타임으로 공간 혼잡을 누적시키지 않습니다.</li>
+          <li>자주 쓰는 물건은 동선 안에, 잘 안 쓰는 물건은 외곽에 배치합니다.</li>
+          <li>반복 구매 품목은 기준 리스트를 만들어 지출 편차를 줄입니다.</li>
+          <li>주간 계획은 3개 핵심 목표만 유지해 실행률을 높입니다.</li>
+        </ol>
+      </article>
+    </section>
+
+    <section class="card" id="about" data-reveal>
+      <div class="section-head">
+        <p class="kicker">SITE QUALITY</p>
+        <h2>운영 원칙과 콘텐츠 품질 기준</h2>
+      </div>
+      <div class="policy-grid">
+        <article>
+          <h3>편집 원칙</h3>
+          <p>
+            각 글은 특정 문제를 해결하는 단일 목적을 가집니다. 키워드 반복보다 사용자
+            이해도와 실행 가능성을 우선합니다.
+          </p>
+        </article>
+        <article>
+          <h3>콘텐츠 기준</h3>
+          <p>
+            중복 문서, 얇은 요약, 자동 생성 문구를 지양합니다. 실제 단계, 체크리스트,
+            주의 사항을 포함한 원문 중심 콘텐츠를 발행합니다.
+          </p>
+        </article>
+        <article>
+          <h3>광고-콘텐츠 균형</h3>
+          <p>
+            광고가 본문 소비를 방해하지 않도록 콘텐츠 우선 배치를 유지합니다. 광고는
+            보조 정보 영역으로만 노출합니다.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section class="card" data-reveal>
+      <div class="section-head">
+        <p class="kicker">FAQ</p>
+        <h2>자주 묻는 질문</h2>
+      </div>
+      <div class="faq-list">
+        <details>
+          <summary>IDKWELL의 글은 누가 작성하나요?</summary>
+          <p>생활 실무를 다루는 운영팀이 직접 작성하고, 발행 전 체크리스트를 통해 교정합니다.</p>
+        </details>
+        <details>
+          <summary>정보는 얼마나 자주 업데이트되나요?</summary>
+          <p>최소 주 3회 업데이트하며, 변동 가능성이 큰 정보는 발행일과 수정일을 함께 표기합니다.</p>
+        </details>
+        <details>
+          <summary>의료·법률·세무 관련 글은 전문 자문인가요?</summary>
+          <p>아니요. 일반 정보 제공 목적이며, 개인 상황은 전문가 상담을 권장합니다.</p>
+        </details>
+      </div>
+    </section>
+
+    <section class="card legal" data-reveal>
+      <div class="section-head">
+        <p class="kicker">LEGAL</p>
+        <h2>개인정보처리방침 및 이용안내</h2>
+      </div>
+      <article id="privacy">
+        <h3>개인정보처리방침</h3>
+        <p>
+          문의 폼을 통해 제공되는 이름, 이메일, 문의 내용은 회신 목적에 한해 사용하며,
+          목적 달성 후 지체 없이 파기합니다.
+        </p>
+      </article>
+      <article id="terms">
+        <h3>이용안내</h3>
+        <p>
+          본 사이트의 콘텐츠는 일반 정보 제공 목적입니다. 정보 이용에 따른 최종 판단과
+          책임은 이용자 본인에게 있습니다.
+        </p>
+      </article>
+    </section>
+
+    <section class="card contact" id="contact" data-reveal>
+      <div class="contact-copy">
+        <p class="kicker">CONTACT</p>
+        <h2>콘텐츠 제안 및 정정 요청</h2>
+        <p>오류 제보, 주제 제안, 제휴 문의는 아래 폼으로 보내주세요.</p>
+      </div>
+
+      <form class="contact-form" action="https://formspree.io/f/xaqpgzgn" method="POST">
+        <input type="hidden" name="_subject" value="IDKWELL 문의" />
+
+        <label class="field">
+          <span>이름</span>
+          <input type="text" name="name" placeholder="홍길동" required />
+        </label>
+
+        <label class="field">
+          <span>이메일</span>
+          <input type="email" name="email" placeholder="name@example.com" required />
+        </label>
+
+        <label class="field">
+          <span>문의 유형</span>
+          <select name="type" required>
+            <option value="">선택하세요</option>
+            <option value="topic">주제 제안</option>
+            <option value="fix">오류/정정 요청</option>
+            <option value="biz">비즈니스 문의</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span>내용</span>
+          <textarea name="message" rows="6" required></textarea>
+        </label>
+
+        <button class="button" type="submit">보내기</button>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2026 IDKWELL. Last updated: 2026-03-23 (UTC)</p>
+    <div>
+      <a href="#privacy">개인정보처리방침</a>
+      <a href="#terms">이용안내</a>
+      <a href="#about">운영 원칙</a>
+    </div>
+  </footer>
+
   <script defer type="text/javascript" src="/main.js"></script>
 </body>
 </html>
