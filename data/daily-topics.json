@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-23 14:52:31",
-  "updated_at_kst": "2026-03-23 23:52:31",
+  "updated_at": "2026-03-23 14:54:38",
+  "updated_at_kst": "2026-03-23 23:54:38",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
@@ -12,15 +12,15 @@
       "summary": "오늘 급상승 검색어 기반 주제"
     },
     {
-      "title": "이스라엘",
-      "summary": "오늘 급상승 검색어 기반 주제"
-    },
-    {
       "title": "현대건설",
       "summary": "오늘 급상승 검색어 기반 주제"
     },
     {
       "title": "정선희",
+      "summary": "오늘 급상승 검색어 기반 주제"
+    },
+    {
+      "title": "문근영",
       "summary": "오늘 급상승 검색어 기반 주제"
     }
   ]
