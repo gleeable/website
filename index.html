@@ -7,6 +7,12 @@
     name="description"
     content="위고인은 팀과 아이디어가 더 빠르게 실행되도록 돕는 실행 중심 파트너입니다."
   />
+  <meta name="google-adsense-account" content="ca-pub-3212777380365712" />
+  <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3212777380365712"
+    crossorigin="anonymous"
+  ></script>
   <title>위고인 | 실행이 움직이는 순간</title>
   <link href="/style.css" rel="stylesheet" />
 </head>
@@ -59,6 +65,7 @@
         </p>
       </section>
 
+
       <section class="section services" id="services">
         <div class="section-heading" data-reveal>
           <p class="eyebrow">CORE SERVICES</p>
@@ -82,6 +89,20 @@
             <p>작업이 끝나는 데서 멈추지 않고 실제 게시 가능한 상태까지 맞춥니다.</p>
           </article>
         </div>
+      </section>
+
+      <section class="section ad-section" aria-label="광고">
+        <ins
+          class="adsbygoogle"
+          style="display: block"
+          data-ad-client="ca-pub-3212777380365712"
+          data-ad-slot="2293092702"
+          data-ad-format="auto"
+          data-full-width-responsive="true"
+        ></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
       </section>
 
       <section class="section process">
@@ -110,11 +131,55 @@
       </section>
 
       <section class="section contact" id="contact" data-reveal>
-        <div>
+        <div class="contact-copy">
           <p class="eyebrow">START NOW</p>
           <h2>위고인과 함께 다음 화면을 실제로 꺼내보세요.</h2>
+          <p>
+            제휴 목적, 현재 상황, 원하는 협업 방식만 간단히 남겨주시면 확인 후
+            연락드리겠습니다.
+          </p>
         </div>
-        <a class="button primary" href="mailto:hello@wegoin.kr">hello@wegoin.kr</a>
+        <form
+          class="contact-form"
+          action="https://formspree.io/f/xaqpgzgn"
+          method="POST"
+        >
+          <input type="hidden" name="_subject" value="위고인 제휴 문의" />
+
+          <label class="field">
+            <span>이름</span>
+            <input type="text" name="name" placeholder="홍길동" required />
+          </label>
+
+          <div class="field-row">
+            <label class="field">
+              <span>이메일</span>
+              <input
+                type="email"
+                name="email"
+                placeholder="name@company.com"
+                required
+              />
+            </label>
+
+            <label class="field">
+              <span>회사명</span>
+              <input type="text" name="company" placeholder="회사 또는 팀 이름" />
+            </label>
+          </div>
+
+          <label class="field">
+            <span>문의 내용</span>
+            <textarea
+              name="message"
+              rows="6"
+              placeholder="어떤 제휴를 원하시는지, 현재 준비된 내용과 일정이 있다면 함께 적어주세요."
+              required
+            ></textarea>
+          </label>
+
+          <button class="button primary" type="submit">제휴 문의 보내기</button>
+        </form>
       </section>
     </main>
   </div>
