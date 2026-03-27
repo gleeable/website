@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-03-26 16:19:34",
-  "updated_at_kst": "2026-03-27 01:19:34",
+  "updated_at": "2026-03-27 16:02:14",
+  "updated_at_kst": "2026-03-28 01:02:14",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
+    {
+      "title": "우도환",
+      "summary": "오늘 급상승 검색어 기반 주제",
+      "news_url": "https://news.google.com/search?q=%EC%9A%B0%EB%8F%84%ED%99%98&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "title": "배인혁",
+      "summary": "오늘 급상승 검색어 기반 주제",
+      "news_url": "https://news.google.com/search?q=%EB%B0%B0%EC%9D%B8%ED%98%81&hl=ko&gl=KR&ceid=KR:ko"
+    },
     {
       "title": "kick",
       "summary": "오늘 급상승 검색어 기반 주제",
       "news_url": "https://news.google.com/search?q=kick&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "선관위",
+      "title": "살목지",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%84%A0%EA%B4%80%EC%9C%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%82%B4%EB%AA%A9%EC%A7%80&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "박진영",
+      "title": "vix",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%A7%84%EC%98%81&hl=ko&gl=KR&ceid=KR:ko"
-    },
-    {
-      "title": "서준영",
-      "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%84%9C%EC%A4%80%EC%98%81&hl=ko&gl=KR&ceid=KR:ko"
-    },
-    {
-      "title": "이소나",
-      "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%86%8C%EB%82%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=vix&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
