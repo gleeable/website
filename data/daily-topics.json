@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-03-27 16:02:14",
-  "updated_at_kst": "2026-03-28 01:02:14",
+  "updated_at": "2026-03-28 15:44:05",
+  "updated_at_kst": "2026-03-29 00:44:05",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "우도환",
+      "title": "김태현",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9A%B0%EB%8F%84%ED%99%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%ED%83%9C%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "배인혁",
+      "title": "해외축구",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%B0%EC%9D%B8%ED%98%81&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%95%B4%EC%99%B8%EC%B6%95%EA%B5%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "kick",
+      "title": "월드컵",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=kick&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9B%94%EB%93%9C%EC%BB%B5&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "살목지",
+      "title": "psl",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%82%B4%EB%AA%A9%EC%A7%80&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=psl&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "vix",
+      "title": "明天的天氣",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=vix&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%E6%98%8E%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%B0%A3&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
