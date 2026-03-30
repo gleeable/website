@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-03-29 15:43:33",
-  "updated_at_kst": "2026-03-30 00:43:33",
+  "updated_at": "2026-03-30 16:11:16",
+  "updated_at_kst": "2026-03-31 01:11:16",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "kkr vs mi",
+      "title": "파월",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=kkr+vs+mi&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%8C%8C%EC%9B%94&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "vtv3",
+      "title": "indonesia vs bulgaria",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=vtv3&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=indonesia+vs+bulgaria&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "남규리",
+      "title": "전소미",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%82%A8%EA%B7%9C%EB%A6%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%84%EC%86%8C%EB%AF%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "청년월세지원",
+      "title": "한준호",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B2%AD%EB%85%84%EC%9B%94%EC%84%B8%EC%A7%80%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%95%9C%EC%A4%80%ED%98%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "손종원",
+      "title": "탁재훈",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%86%90%EC%A2%85%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%83%81%EC%9E%AC%ED%9B%88&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
