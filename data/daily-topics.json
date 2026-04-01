@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-03-31 16:12:50",
-  "updated_at_kst": "2026-04-01 01:12:50",
+  "updated_at": "2026-04-01 16:11:57",
+  "updated_at_kst": "2026-04-02 01:11:57",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "gt vs pbks",
+      "title": "고우리",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=gt+vs+pbks&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B3%A0%EC%9A%B0%EB%A6%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "4월1일",
+      "title": "제니",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=4%EC%9B%941%EC%9D%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%9C%EB%8B%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "임",
+      "title": "채연",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9E%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B1%84%EC%97%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "vòng loại cúp châu á",
+      "title": "lsg vs dc",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=v%C3%B2ng+lo%E1%BA%A1i+c%C3%BAp+ch%C3%A2u+%C3%A1&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=lsg+vs+dc&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "박해수",
+      "title": "김원중",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%95%ED%95%B4%EC%88%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%9B%90%EC%A4%91&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
