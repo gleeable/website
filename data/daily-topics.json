@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-01 16:11:57",
-  "updated_at_kst": "2026-04-02 01:11:57",
+  "updated_at": "2026-04-02 16:09:31",
+  "updated_at_kst": "2026-04-03 01:09:31",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "고우리",
+      "title": "오만",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B3%A0%EC%9A%B0%EB%A6%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%98%A4%EB%A7%8C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "제니",
+      "title": "srh vs kkr",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%9C%EB%8B%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=srh+vs+kkr&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "채연",
+      "title": "riot",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B1%84%EC%97%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=riot&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "lsg vs dc",
+      "title": "라이엇",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=lsg+vs+dc&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%9D%BC%EC%9D%B4%EC%97%87&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "김원중",
+      "title": "박진영",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%9B%90%EC%A4%91&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%A7%84%EC%98%81&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
