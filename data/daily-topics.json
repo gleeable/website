@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-02 16:09:31",
-  "updated_at_kst": "2026-04-03 01:09:31",
+  "updated_at": "2026-04-03 15:50:08",
+  "updated_at_kst": "2026-04-04 00:50:08",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "오만",
+      "title": "챔피언십",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%98%A4%EB%A7%8C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "srh vs kkr",
+      "title": "f15",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=srh+vs+kkr&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=f15&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "riot",
+      "title": "하지원",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=riot&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%95%98%EC%A7%80%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "라이엇",
+      "title": "csk vs pbks",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%9D%BC%EC%9D%B4%EC%97%87&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=csk+vs+pbks&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "박진영",
+      "title": "송창식",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%A7%84%EC%98%81&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%86%A1%EC%B0%BD%EC%8B%9D&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
