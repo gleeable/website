@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-03 15:50:08",
-  "updated_at_kst": "2026-04-04 00:50:08",
+  "updated_at": "2026-04-04 15:45:01",
+  "updated_at_kst": "2026-04-05 00:45:01",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "챔피언십",
+      "title": "rr vs gt",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=rr+vs+gt&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "f15",
+      "title": "레알마드리드",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=f15&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A0%88%EC%95%8C%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "하지원",
+      "title": "이엘리야",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%95%98%EC%A7%80%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%97%98%EB%A6%AC%EC%95%BC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "csk vs pbks",
+      "title": "mallorca vs madrid",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=csk+vs+pbks&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=mallorca+vs+madrid&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "송창식",
+      "title": "mallorca đấu với real madrid",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%86%A1%EC%B0%BD%EC%8B%9D&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=mallorca+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+real+madrid&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
