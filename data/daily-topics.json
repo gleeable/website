@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-04 15:45:01",
-  "updated_at_kst": "2026-04-05 00:45:01",
+  "updated_at": "2026-04-05 15:45:44",
+  "updated_at_kst": "2026-04-06 00:45:44",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "rr vs gt",
+      "title": "비트코인",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=rr+vs+gt&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "레알마드리드",
+      "title": "수지",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A0%88%EC%95%8C%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%88%98%EC%A7%80&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이엘리야",
+      "title": "김영록",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%97%98%EB%A6%AC%EC%95%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%98%81%EB%A1%9D&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "mallorca vs madrid",
+      "title": "축구",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=mallorca+vs+madrid&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B6%95%EA%B5%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "mallorca đấu với real madrid",
+      "title": "이수현",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=mallorca+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+real+madrid&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%88%98%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
