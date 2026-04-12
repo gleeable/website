@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-11 15:45:17",
-  "updated_at_kst": "2026-04-12 00:45:17",
+  "updated_at": "2026-04-12 15:49:12",
+  "updated_at_kst": "2026-04-13 00:49:12",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "다바크",
+      "title": "chelsea vs man city",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%8B%A4%EB%B0%94%ED%81%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=chelsea+vs+man+city&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "카를로스 알카라스",
+      "title": "허지웅",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B9%B4%EB%A5%BC%EB%A1%9C%EC%8A%A4+%EC%95%8C%EC%B9%B4%EB%9D%BC%EC%8A%A4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%97%88%EC%A7%80%EC%9B%85&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "지민",
+      "title": "공습",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A7%80%EB%AF%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B3%B5%EC%8A%B5&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "csk vs dc",
+      "title": "1등들",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=csk+vs+dc&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=1%EB%93%B1%EB%93%A4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "코인베이스",
+      "title": "뉴캐슬",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%BD%94%EC%9D%B8%EB%B2%A0%EC%9D%B4%EC%8A%A4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%89%B4%EC%BA%90%EC%8A%AC&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
