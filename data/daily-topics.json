@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-12 15:49:12",
-  "updated_at_kst": "2026-04-13 00:49:12",
+  "updated_at": "2026-04-13 16:21:14",
+  "updated_at_kst": "2026-04-14 01:21:14",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "chelsea vs man city",
+      "title": "샌디스크 주가",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=chelsea+vs+man+city&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%83%8C%EB%94%94%EC%8A%A4%ED%81%AC+%EC%A3%BC%EA%B0%80&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "허지웅",
+      "title": "김태리",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%97%88%EC%A7%80%EC%9B%85&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%ED%83%9C%EB%A6%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "공습",
+      "title": "오늘도 매진했습니다",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B3%B5%EC%8A%B5&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%98%A4%EB%8A%98%EB%8F%84+%EB%A7%A4%EC%A7%84%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "1등들",
+      "title": "정우",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=1%EB%93%B1%EB%93%A4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%95%EC%9A%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "뉴캐슬",
+      "title": "srh vs rr",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%89%B4%EC%BA%90%EC%8A%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=srh+vs+rr&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
