@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-14 16:19:08",
-  "updated_at_kst": "2026-04-15 01:19:08",
+  "updated_at": "2026-04-15 16:12:38",
+  "updated_at_kst": "2026-04-16 01:12:38",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "10",
+      "title": "올버즈",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=10&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%98%AC%EB%B2%84%EC%A6%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "특수부대",
+      "title": "박해수",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%8A%B9%EC%88%98%EB%B6%80%EB%8C%80&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%95%ED%95%B4%EC%88%98&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "조진웅",
+      "title": "최백호",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A1%B0%EC%A7%84%EC%9B%85&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B5%9C%EB%B0%B1%ED%98%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "최고기",
+      "title": "이금희",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B5%9C%EA%B3%A0%EA%B8%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EA%B8%88%ED%9D%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "블러드 본",
+      "title": "아레나",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B8%94%EB%9F%AC%EB%93%9C+%EB%B3%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%84%EB%A0%88%EB%82%98&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
