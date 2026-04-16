@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-15 16:12:38",
-  "updated_at_kst": "2026-04-16 01:12:38",
+  "updated_at": "2026-04-16 16:46:37",
+  "updated_at_kst": "2026-04-17 01:46:37",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "올버즈",
+      "title": "공매도",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%98%AC%EB%B2%84%EC%A6%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B3%B5%EB%A7%A4%EB%8F%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "박해수",
+      "title": "부동산 투자",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%95%ED%95%B4%EC%88%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B6%80%EB%8F%99%EC%82%B0+%ED%88%AC%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "최백호",
+      "title": "전주국제영화제",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B5%9C%EB%B0%B1%ED%98%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%84%EC%A3%BC%EA%B5%AD%EC%A0%9C%EC%98%81%ED%99%94%EC%A0%9C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이금희",
+      "title": "정진운",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EA%B8%88%ED%9D%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%95%EC%A7%84%EC%9A%B4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "아레나",
+      "title": "mi vs pbks",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%95%84%EB%A0%88%EB%82%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=mi+vs+pbks&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
