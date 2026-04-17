@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-16 16:46:37",
-  "updated_at_kst": "2026-04-17 01:46:37",
+  "updated_at": "2026-04-17 16:10:30",
+  "updated_at_kst": "2026-04-18 01:10:30",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "공매도",
+      "title": "김남길",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B3%B5%EB%A7%A4%EB%8F%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EB%82%A8%EA%B8%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "부동산 투자",
+      "title": "kkr vs gt",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B6%80%EB%8F%99%EC%82%B0+%ED%88%AC%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=kkr+vs+gt&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "전주국제영화제",
+      "title": "테니스",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%84%EC%A3%BC%EA%B5%AD%EC%A0%9C%EC%98%81%ED%99%94%EC%A0%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%85%8C%EB%8B%88%EC%8A%A4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "정진운",
+      "title": "악뮤",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%95%EC%A7%84%EC%9A%B4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%85%EB%AE%A4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "mi vs pbks",
+      "title": "박진성",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=mi+vs+pbks&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%A7%84%EC%84%B1&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
