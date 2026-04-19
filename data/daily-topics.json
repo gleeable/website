@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-18 15:50:26",
-  "updated_at_kst": "2026-04-19 00:50:26",
+  "updated_at": "2026-04-19 15:50:38",
+  "updated_at_kst": "2026-04-20 00:50:38",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "leeds vs wolves",
+      "title": "바이에른 대 슈투트가르트",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=leeds+vs+wolves&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%94%EC%9D%B4%EC%97%90%EB%A5%B8+%EB%8C%80+%EC%8A%88%ED%88%AC%ED%8A%B8%EA%B0%80%EB%A5%B4%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "함소원",
+      "title": "man city vs arsenal",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%95%A8%EC%86%8C%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=man+city+vs+arsenal&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이주연",
+      "title": "백영규",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%A3%BC%EC%97%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%B1%EC%98%81%EA%B7%9C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "유지태",
+      "title": "백옥담",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9C%A0%EC%A7%80%ED%83%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%B1%EC%98%A5%EB%8B%B4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "전지현",
+      "title": "pbks vs lsg",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%84%EC%A7%80%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=pbks+vs+lsg&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
