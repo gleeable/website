@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-24 16:10:18",
-  "updated_at_kst": "2026-04-25 01:10:18",
+  "updated_at": "2026-04-25 15:52:44",
+  "updated_at_kst": "2026-04-26 00:52:44",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "이경실",
+      "title": "tottenham",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EA%B2%BD%EC%8B%A4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=tottenham&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "신발",
+      "title": "토트넘",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%8B%A0%EB%B0%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%86%A0%ED%8A%B8%EB%84%98&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "하현상",
+      "title": "코요태",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%95%98%ED%98%84%EC%83%81&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%BD%94%EC%9A%94%ED%83%9C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "김수희",
+      "title": "신성록",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%88%98%ED%9D%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%8B%A0%EC%84%B1%EB%A1%9D&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "야닉 시너",
+      "title": "김대호",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%95%BC%EB%8B%89+%EC%8B%9C%EB%84%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EB%8C%80%ED%98%B8&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
