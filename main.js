@@ -5,9 +5,19 @@ const articleCards = document.querySelectorAll(".article-card");
 const emptyState = document.querySelector("#emptyState");
 const topicCards = document.querySelectorAll(".topic-grid .topic-card");
 const topicUpdatedAt = document.querySelector("#topicUpdatedAt");
+const authForm = document.querySelector("#authForm");
+const authEmail = document.querySelector("#authEmail");
+const authPassword = document.querySelector("#authPassword");
+const authMessage = document.querySelector("#authMessage");
+const authSession = document.querySelector("#authSession");
+const authUserEmail = document.querySelector("#authUserEmail");
+const signInButton = document.querySelector("#signInButton");
+const signUpButton = document.querySelector("#signUpButton");
+const signOutButton = document.querySelector("#signOutButton");
 
 let currentFilter = "all";
 let currentQuery = "";
+let supabaseClient = null;
 
 const revealObserver = new IntersectionObserver(
   (entries) => {
@@ -33,6 +43,140 @@ const normalize = (value) => (value || "").toLowerCase().trim();
 const buildGoogleNewsUrl = (keyword) => {
   const query = encodeURIComponent(keyword || "");
   return `https://news.google.com/search?q=${query}&hl=ko&gl=KR&ceid=KR:ko`;
+};
+
+const setAuthMessage = (message, type = "info") => {
+  if (!authMessage) {
+    return;
+  }
+
+  authMessage.textContent = message;
+  authMessage.dataset.type = type;
+};
+
+const setAuthBusy = (isBusy) => {
+  [signInButton, signUpButton, signOutButton].forEach((button) => {
+    if (button) {
+      button.disabled = isBusy;
+    }
+  });
+};
+
+const isSupabaseConfigured = (config) => {
+  return Boolean(
+      config &&
+      config.url &&
+      config.publishableKey &&
+      !config.url.includes("YOUR_PROJECT_REF") &&
+      !config.publishableKey.includes("YOUR_SUPABASE_PUBLISHABLE_KEY")
+  );
+};
+
+const renderAuthSession = (session) => {
+  const email = session?.user?.email || "";
+
+  if (authSession) {
+    authSession.hidden = !email;
+  }
+
+  if (authUserEmail) {
+    authUserEmail.textContent = email;
+  }
+
+  if (authForm) {
+    authForm.classList.toggle("is-signed-in", Boolean(email));
+  }
+};
+
+const initAuth = async () => {
+  if (!authForm) {
+    return;
+  }
+
+  const config = window.IDKWELL_SUPABASE;
+
+  if (!isSupabaseConfigured(config)) {
+    setAuthMessage("Supabase 프로젝트 URL과 publishable key를 먼저 설정하세요.", "error");
+    setAuthBusy(true);
+    return;
+  }
+
+  if (!window.supabase?.createClient) {
+    setAuthMessage("Supabase 클라이언트를 불러오지 못했습니다.", "error");
+    setAuthBusy(true);
+    return;
+  }
+
+  supabaseClient = window.supabase.createClient(config.url, config.publishableKey);
+
+  const { data, error } = await supabaseClient.auth.getSession();
+  if (error) {
+    setAuthMessage(error.message, "error");
+  } else {
+    renderAuthSession(data.session);
+  }
+
+  supabaseClient.auth.onAuthStateChange((_event, session) => {
+    renderAuthSession(session);
+  });
+};
+
+const readAuthCredentials = () => {
+  return {
+    email: authEmail?.value.trim() || "",
+    password: authPassword?.value || ""
+  };
+};
+
+const signIn = async () => {
+  if (!supabaseClient) {
+    return;
+  }
+
+  const { email, password } = readAuthCredentials();
+  setAuthBusy(true);
+  setAuthMessage("로그인 중입니다.");
+
+  const { error } = await supabaseClient.auth.signInWithPassword({ email, password });
+
+  setAuthBusy(false);
+  setAuthMessage(error ? error.message : "로그인되었습니다.", error ? "error" : "success");
+};
+
+const signUp = async () => {
+  if (!supabaseClient) {
+    return;
+  }
+
+  const { email, password } = readAuthCredentials();
+  setAuthBusy(true);
+  setAuthMessage("회원 가입을 처리 중입니다.");
+
+  const { error } = await supabaseClient.auth.signUp({
+    email,
+    password,
+    options: {
+      emailRedirectTo: window.location.origin
+    }
+  });
+
+  setAuthBusy(false);
+  setAuthMessage(
+    error ? error.message : "가입 요청이 완료되었습니다. 인증 메일이 오면 확인하세요.",
+    error ? "error" : "success"
+  );
+};
+
+const signOut = async () => {
+  if (!supabaseClient) {
+    return;
+  }
+
+  setAuthBusy(true);
+  const { error } = await supabaseClient.auth.signOut();
+  setAuthBusy(false);
+
+  setAuthMessage(error ? error.message : "로그아웃되었습니다.", error ? "error" : "success");
 };
 
 const renderCards = () => {
@@ -128,5 +272,21 @@ if (searchInput) {
   });
 }
 
+if (authForm) {
+  authForm.addEventListener("submit", (event) => {
+    event.preventDefault();
+    signIn();
+  });
+}
+
+if (signUpButton) {
+  signUpButton.addEventListener("click", signUp);
+}
+
+if (signOutButton) {
+  signOutButton.addEventListener("click", signOut);
+}
+
 renderCards();
 loadDailyTopics();
+initAuth();

@@ -23,6 +23,13 @@
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "w2d11hrfz6");
   </script>
+  <script>
+    window.IDKWELL_SUPABASE = {
+      url: "https://wvukavcjpdifairqncms.supabase.co",
+      publishableKey: "sb_publishable_mG4jp-B45wHIdW84VX8uGQ_Qea8aBGPY"
+    };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <title>IDKWELL | 광고보다 콘텐츠가 앞서는 실전 생활 가이드</title>
   <link href="/style.css" rel="stylesheet" />
 </head>
@@ -41,6 +48,7 @@
       <a href="#guides">장문 가이드</a>
       <a href="#about">운영 원칙</a>
       <a href="#contact">문의</a>
+      <a href="#auth">로그인</a>
     </nav>
   </header>
 
@@ -87,6 +95,34 @@
           <span>실행형 장문 문서 포맷</span>
         </li>
       </ul>
+    </section>
+
+    <section class="card auth-card" id="auth" data-reveal>
+      <div class="auth-copy">
+        <p class="kicker">MEMBER ACCESS</p>
+        <h2>회원 가입 및 로그인</h2>
+        <p class="section-intro">이메일과 비밀번호로 가입하고 로그인할 수 있습니다. 가입 후 이메일 확인이 필요한 경우 Supabase에서 발송한 인증 메일을 확인하세요.</p>
+        <div class="auth-session" id="authSession" hidden>
+          <strong id="authUserEmail"></strong>
+          <span>현재 로그인된 계정입니다.</span>
+          <button class="button button-secondary" id="signOutButton" type="button">로그아웃</button>
+        </div>
+      </div>
+      <form class="auth-form" id="authForm">
+        <label class="field auth-field">
+          <span>이메일</span>
+          <input id="authEmail" type="email" autocomplete="email" placeholder="name@example.com" required />
+        </label>
+        <label class="field auth-field">
+          <span>비밀번호</span>
+          <input id="authPassword" type="password" autocomplete="current-password" minlength="6" placeholder="6자 이상" required />
+        </label>
+        <div class="auth-actions">
+          <button class="button" id="signInButton" type="submit">로그인</button>
+          <button class="button button-secondary" id="signUpButton" type="button">회원 가입</button>
+        </div>
+        <p class="auth-message" id="authMessage" role="status" aria-live="polite"></p>
+      </form>
     </section>
 
     <section class="card" id="standards" data-reveal>
@@ -365,7 +401,7 @@
       </div>
       <article id="privacy">
         <h3>개인정보처리방침</h3>
-        <p>문의 폼을 통해 제공되는 이름, 이메일, 문의 내용은 회신 목적에 한해 사용하며, 목적 달성 후 지체 없이 파기합니다.</p>
+        <p>문의 폼을 통해 제공되는 이름, 이메일, 문의 내용은 회신 목적에 한해 사용하며, 회원 가입 시 제공되는 이메일과 인증 정보는 Supabase Auth를 통해 계정 인증 및 로그인 유지 목적으로 처리합니다.</p>
       </article>
       <article id="terms">
         <h3>이용안내</h3>

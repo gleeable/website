@@ -147,6 +147,7 @@ a {
 #guides,
 #about,
 #standards,
+.auth-card,
 .legal,
 .contact {
   padding: 28px;
@@ -271,6 +272,78 @@ h3 {
   padding: 13px 14px;
   font: inherit;
   background: #fff;
+}
+
+.auth-card {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(300px, 0.72fr);
+  gap: 18px;
+  align-items: start;
+}
+
+.auth-copy {
+  display: grid;
+  gap: 12px;
+}
+
+.auth-form,
+.auth-session {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: #ffffff;
+}
+
+.auth-form {
+  display: grid;
+  gap: 12px;
+  padding: 16px;
+}
+
+.auth-field input {
+  color: var(--ink);
+  border-color: #ccd7e8;
+  background: #fff;
+}
+
+.auth-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.auth-actions .button {
+  flex: 1 1 130px;
+}
+
+.auth-message {
+  min-height: 1.45em;
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.auth-message[data-type="error"] {
+  color: #b42318;
+}
+
+.auth-message[data-type="success"] {
+  color: #047857;
+}
+
+.auth-session {
+  display: grid;
+  gap: 8px;
+  padding: 14px;
+}
+
+.auth-session[hidden] {
+  display: none;
+}
+
+.auth-session span {
+  color: var(--muted);
+  font-size: 0.92rem;
 }
 
 .metrics {
@@ -468,6 +541,12 @@ summary {
   color: #111;
 }
 
+.auth-form .field input {
+  border: 1px solid #ccd7e8;
+  color: var(--ink);
+  background: #fff;
+}
+
 .button {
   border: 0;
   border-radius: 10px;
@@ -477,6 +556,17 @@ summary {
   color: #fff;
   background: linear-gradient(135deg, #2b7dff, #0f5bd8);
   cursor: pointer;
+}
+
+.button-secondary {
+  border: 1px solid #c9d5e8;
+  color: var(--primary);
+  background: #ffffff;
+}
+
+.button:disabled {
+  cursor: not-allowed;
+  opacity: 0.58;
 }
 
 .ad-section {
@@ -548,6 +638,7 @@ summary {
   #guides,
   #about,
   #standards,
+  .auth-card,
   .legal,
   .contact,
   .ad-section {
@@ -560,6 +651,7 @@ summary {
   .policy-grid,
   .standards-grid,
   .checklist-grid,
+  .auth-card,
   .contact,
   .metrics {
     grid-template-columns: 1fr;
