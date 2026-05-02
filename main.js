@@ -14,6 +14,7 @@ const authUserEmail = document.querySelector("#authUserEmail");
 const signInButton = document.querySelector("#signInButton");
 const signUpButton = document.querySelector("#signUpButton");
 const signOutButton = document.querySelector("#signOutButton");
+const googleSignInButton = document.querySelector("#googleSignInButton");
 
 let currentFilter = "all";
 let currentQuery = "";
@@ -55,7 +56,7 @@ const setAuthMessage = (message, type = "info") => {
 };
 
 const setAuthBusy = (isBusy) => {
-  [signInButton, signUpButton, signOutButton].forEach((button) => {
+  [signInButton, signUpButton, signOutButton, googleSignInButton].forEach((button) => {
     if (button) {
       button.disabled = isBusy;
     }
@@ -64,7 +65,7 @@ const setAuthBusy = (isBusy) => {
 
 const isSupabaseConfigured = (config) => {
   return Boolean(
-      config &&
+    config &&
       config.url &&
       config.publishableKey &&
       !config.url.includes("YOUR_PROJECT_REF") &&
@@ -165,6 +166,27 @@ const signUp = async () => {
     error ? error.message : "가입 요청이 완료되었습니다. 인증 메일이 오면 확인하세요.",
     error ? "error" : "success"
   );
+};
+
+const signInWithGoogle = async () => {
+  if (!supabaseClient) {
+    return;
+  }
+
+  setAuthBusy(true);
+  setAuthMessage("Google 로그인 화면으로 이동합니다.");
+
+  const { error } = await supabaseClient.auth.signInWithOAuth({
+    provider: "google",
+    options: {
+      redirectTo: window.location.origin
+    }
+  });
+
+  if (error) {
+    setAuthBusy(false);
+    setAuthMessage(error.message, "error");
+  }
 };
 
 const signOut = async () => {
@@ -285,6 +307,10 @@ if (signUpButton) {
 
 if (signOutButton) {
   signOutButton.addEventListener("click", signOut);
+}
+
+if (googleSignInButton) {
+  googleSignInButton.addEventListener("click", signInWithGoogle);
 }
 
 renderCards();

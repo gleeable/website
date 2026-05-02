@@ -9,6 +9,16 @@ A simple HTML/JS/CSS starter template
 3. Supabase Dashboard의 Authentication 설정에서 Email provider를 활성화합니다.
 4. 배포 도메인을 Authentication URL Configuration의 Site URL과 Redirect URLs에 추가합니다.
 
+### Google 로그인 설정
+
+Google 로그인은 Supabase OAuth provider를 사용합니다. Google Cloud에서 Web application OAuth client를 만들고, Supabase Dashboard의 Google provider에 Client ID와 Client Secret을 등록해야 합니다.
+
+1. Google Cloud Auth Platform에서 OAuth client type을 `Web application`으로 생성합니다.
+2. Authorized JavaScript origins에 배포 도메인을 추가합니다. 로컬 테스트가 필요하면 `http://localhost:<port>`도 추가합니다.
+3. Authorized redirect URIs에는 Supabase Dashboard의 Google provider 화면에 표시되는 callback URL을 추가합니다.
+4. Supabase Dashboard의 Authentication Providers에서 Google을 활성화하고 Client ID/Secret을 저장합니다.
+5. Supabase Authentication URL Configuration의 Redirect URLs에 배포 도메인을 추가합니다.
+
 Supabase CLI가 설치되어 있다면 공식 CLI 전역 플래그를 사용해 프로젝트 위치를 명시할 수 있습니다.
 
 ```bash

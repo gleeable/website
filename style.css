@@ -315,6 +315,45 @@ h3 {
   flex: 1 1 130px;
 }
 
+.auth-divider {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.auth-divider::before,
+.auth-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--line);
+}
+
+.google-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border: 1px solid #c9d5e8;
+  color: var(--ink);
+  background: #ffffff;
+}
+
+.google-mark {
+  display: inline-grid;
+  width: 22px;
+  height: 22px;
+  place-items: center;
+  border: 1px solid #d7dce7;
+  border-radius: 50%;
+  color: #1a73e8;
+  font-weight: 900;
+  line-height: 1;
+}
+
 .auth-message {
   min-height: 1.45em;
   margin: 0;
