@@ -31,6 +31,7 @@
   </script>
   <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <title>IDKWELL | 경제 구독자를 위한 전문가 브리프</title>
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet" />
   <link href="/style.css" rel="stylesheet" />
 </head>
 <body>
@@ -39,20 +40,172 @@
 
   <header class="top-header" data-reveal>
     <div class="brand-line">
-      <a class="brand" href="#home">IDKWELL</a>
-      <p class="tag">Economic Intelligence</p>
+      <span class="material-symbols-outlined nav-icon" aria-hidden="true">menu</span>
+      <a class="brand" href="#home">ECONOMY BRIEF</a>
     </div>
+    <p class="market-title">실시간 시장 지표</p>
     <nav class="global-nav" aria-label="주요 메뉴">
-      <a href="#topics">시장 레이더</a>
-      <a href="#featured">전문가 브리프</a>
-      <a href="#guides">리서치 체계</a>
-      <a href="#about">운영 원칙</a>
-      <a href="#contact">문의</a>
-      <a href="#auth">구독 로그인</a>
+      <a href="#market-dashboard">Markets</a>
+      <a href="#featured">Analysis</a>
+      <a href="#auth">Profile</a>
+      <a href="#contact" aria-label="검색"><span class="material-symbols-outlined nav-icon" aria-hidden="true">search</span></a>
     </nav>
   </header>
 
   <main id="home" class="layout">
+    <section class="market-dashboard" id="market-dashboard" data-reveal>
+      <div class="dashboard-head">
+        <div>
+          <p class="kicker">GLOBAL INDICES</p>
+          <h1>주요 시장 지수</h1>
+        </div>
+        <div class="live-status"><span></span>Live Market Updates</div>
+      </div>
+
+      <div class="index-grid" aria-label="주요 시장 지수">
+        <article class="index-card">
+          <div class="index-row">
+            <div>
+              <p>KOSPI</p>
+              <strong>2,654.21</strong>
+            </div>
+            <span class="change positive"><span class="material-symbols-outlined">arrow_drop_up</span>0.82%</span>
+          </div>
+          <svg class="sparkline" viewBox="0 0 100 30" role="img" aria-label="KOSPI 상승 추이">
+            <path class="sparkline-positive" d="M0 25 Q 25 20, 40 10 T 70 15 T 100 5"></path>
+          </svg>
+        </article>
+
+        <article class="index-card">
+          <div class="index-row">
+            <div>
+              <p>KOSDAQ</p>
+              <strong>867.30</strong>
+            </div>
+            <span class="change positive"><span class="material-symbols-outlined">arrow_drop_up</span>1.15%</span>
+          </div>
+          <svg class="sparkline" viewBox="0 0 100 30" role="img" aria-label="KOSDAQ 상승 추이">
+            <path class="sparkline-positive" d="M0 28 L 20 20 L 40 22 L 60 10 L 80 15 L 100 2"></path>
+          </svg>
+        </article>
+
+        <article class="index-card">
+          <div class="index-row">
+            <div>
+              <p>NASDAQ</p>
+              <strong>16,274.94</strong>
+            </div>
+            <span class="change negative"><span class="material-symbols-outlined">arrow_drop_down</span>0.41%</span>
+          </div>
+          <svg class="sparkline" viewBox="0 0 100 30" role="img" aria-label="NASDAQ 하락 추이">
+            <path class="sparkline-negative" d="M0 5 L 30 15 L 50 10 L 80 25 L 100 28"></path>
+          </svg>
+        </article>
+
+        <article class="index-card">
+          <div class="index-row">
+            <div>
+              <p>S&amp;P 500</p>
+              <strong>5,123.69</strong>
+            </div>
+            <span class="change positive"><span class="material-symbols-outlined">arrow_drop_up</span>0.03%</span>
+          </div>
+          <svg class="sparkline" viewBox="0 0 100 30" role="img" aria-label="S&P 500 보합 추이">
+            <path class="sparkline-muted" d="M0 15 L 25 15 L 50 12 L 75 14 L 100 13"></path>
+          </svg>
+        </article>
+      </div>
+
+      <div class="market-split">
+        <section class="market-panel" aria-labelledby="currencyTitle">
+          <div class="panel-title">
+            <h2 id="currencyTitle">환율 및 원자재</h2>
+            <p>Currency &amp; Commodities</p>
+          </div>
+          <div class="market-table-wrap">
+            <table class="market-table">
+              <thead>
+                <tr>
+                  <th>항목</th>
+                  <th>현재가</th>
+                  <th>등락</th>
+                  <th>변동률</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    <span class="asset-icon material-symbols-outlined">payments</span>
+                    <strong>원/달러 (KRW/USD)</strong>
+                  </td>
+                  <td>1,332.40</td>
+                  <td class="negative-text">-4.50</td>
+                  <td><span class="badge negative-badge">-0.34%</span></td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="asset-icon material-symbols-outlined">grid_view</span>
+                    <strong>금 (Gold)</strong>
+                  </td>
+                  <td>2,160.80</td>
+                  <td class="positive-text">+12.40</td>
+                  <td><span class="badge positive-badge">+0.58%</span></td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="asset-icon material-symbols-outlined">oil_barrel</span>
+                    <strong>WTI 유가 (Oil)</strong>
+                  </td>
+                  <td>78.01</td>
+                  <td class="negative-text">-0.12</td>
+                  <td><span class="badge negative-badge">-0.15%</span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <aside class="market-panel sentiment-panel" aria-labelledby="sentimentTitle">
+          <div class="panel-title">
+            <h2 id="sentimentTitle">시장 심리 지수</h2>
+            <p>Fear &amp; Greed Index</p>
+          </div>
+          <div class="gauge" aria-label="Fear and Greed Index 72 Greed">
+            <div class="gauge-arc"></div>
+            <div class="gauge-fill"></div>
+            <div class="gauge-needle"></div>
+            <div class="gauge-pin"></div>
+          </div>
+          <strong class="sentiment-score">72</strong>
+          <p class="sentiment-label">Greed</p>
+          <p class="sentiment-copy">강한 실적과 둔화된 인플레이션 데이터가 위험 선호를 지지하고 있습니다.</p>
+          <div class="sentiment-bars" aria-hidden="true">
+            <span></span><span></span><span></span><span></span><span></span>
+          </div>
+        </aside>
+      </div>
+
+      <section class="pro-analysis" id="pro-analysis">
+        <div class="pro-copy">
+          <p class="kicker">PRO ANALYSIS</p>
+          <h2>하반기 금리 인하<br />전망 및 전략</h2>
+          <p>연준의 금리 동결 기조 속에서 한국 시장의 대응 방안과 섹터별 투자 유망 영역을 분석합니다.</p>
+          <a class="button pro-button" href="#auth">리포트 전문 보기</a>
+        </div>
+        <div class="pro-visual" aria-hidden="true">
+          <div class="terminal-card">
+            <span>US10Y 4.42</span>
+            <span>DXY 105.1</span>
+            <span>KOSPI +0.82%</span>
+            <svg viewBox="0 0 220 110">
+              <path d="M0 82 L28 66 L55 70 L82 44 L110 52 L138 28 L166 42 L194 18 L220 26"></path>
+              <path d="M0 98 L35 92 L70 76 L105 84 L140 58 L175 63 L220 46"></path>
+            </svg>
+          </div>
+        </div>
+      </section>
+    </section>
+
     <section class="hero card" data-reveal>
       <div class="hero-copy">
         <p class="kicker">ECONOMY BRIEF FOR SUBSCRIBERS</p>
@@ -446,6 +599,25 @@
       <a href="#about">운영 원칙</a>
     </div>
   </footer>
+
+  <nav class="bottom-nav" aria-label="모바일 주요 메뉴">
+    <a href="#featured">
+      <span class="material-symbols-outlined" aria-hidden="true">newspaper</span>
+      <span>Feed</span>
+    </a>
+    <a class="is-active" href="#market-dashboard">
+      <span class="material-symbols-outlined" aria-hidden="true">show_chart</span>
+      <span>Markets</span>
+    </a>
+    <a href="#pro-analysis">
+      <span class="material-symbols-outlined" aria-hidden="true">analytics</span>
+      <span>Analysis</span>
+    </a>
+    <a href="#auth">
+      <span class="material-symbols-outlined" aria-hidden="true">person</span>
+      <span>Profile</span>
+    </a>
+  </nav>
 
   <script defer type="text/javascript" src="/main.js"></script>
 </body>
