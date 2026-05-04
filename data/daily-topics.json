@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-05-03 15:58:22",
-  "updated_at_kst": "2026-05-04 00:58:22",
+  "updated_at": "2026-05-04 16:57:43",
+  "updated_at_kst": "2026-05-05 01:57:43",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "저비용 항공사",
+      "title": "chelsea",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%80%EB%B9%84%EC%9A%A9+%ED%95%AD%EA%B3%B5%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=chelsea&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "모두가 자신의 무가치함과 싸우고 있다",
+      "title": "lg에너지솔루션",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%AA%A8%EB%91%90%EA%B0%80+%EC%9E%90%EC%8B%A0%EC%9D%98+%EB%AC%B4%EA%B0%80%EC%B9%98%ED%95%A8%EA%B3%BC+%EC%8B%B8%EC%9A%B0%EA%B3%A0+%EC%9E%88%EB%8B%A4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=lg%EC%97%90%EB%84%88%EC%A7%80%EC%86%94%EB%A3%A8%EC%85%98&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "manchester united",
+      "title": "김새론",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=manchester+united&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%83%88%EB%A1%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "ดูบอลสด",
+      "title": "유미의 세포들 시즌3",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9C%A0%EB%AF%B8%EC%9D%98+%EC%84%B8%ED%8F%AC%EB%93%A4+%EC%8B%9C%EC%A6%8C3&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "맨유 대 리버풀",
+      "title": "김승혜",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A7%A8%EC%9C%A0+%EB%8C%80+%EB%A6%AC%EB%B2%84%ED%92%80&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%8A%B9%ED%98%9C&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
