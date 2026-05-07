@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-05-06 16:51:19",
-  "updated_at_kst": "2026-05-07 01:51:19",
+  "updated_at": "2026-05-07 17:01:03",
+  "updated_at_kst": "2026-05-08 02:01:03",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "근로기준법",
+      "title": "이상민",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B7%BC%EB%A1%9C%EA%B8%B0%EC%A4%80%EB%B2%95&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%83%81%EB%AF%BC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "전소미",
+      "title": "울산광역시",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%84%EC%86%8C%EB%AF%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "회사",
+      "title": "연금복권720+",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%9A%8C%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%97%B0%EA%B8%88%EB%B3%B5%EA%B6%8C720%2B&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "윤하",
+      "title": "이지훈",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9C%A4%ED%95%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%A7%80%ED%9B%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "장한별",
+      "title": "아정당",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9E%A5%ED%95%9C%EB%B3%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%84%EC%A0%95%EB%8B%B9&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
