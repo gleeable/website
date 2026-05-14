@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-05-13 17:22:04",
-  "updated_at_kst": "2026-05-14 02:22:04",
+  "updated_at": "2026-05-14 17:06:39",
+  "updated_at_kst": "2026-05-15 02:06:39",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "kkr vs rcb",
+      "title": "잭 쿠싱",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=kkr+vs+rcb&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9E%AD+%EC%BF%A0%EC%8B%B1&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "황보라",
+      "title": "재판",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%99%A9%EB%B3%B4%EB%9D%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9E%AC%ED%8C%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "도박",
+      "title": "clarity act",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%8F%84%EB%B0%95&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=clarity+act&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "신유",
+      "title": "이지훈",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%8B%A0%EC%9C%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%A7%80%ED%9B%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "31기 옥순",
+      "title": "pbks vs mi",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=31%EA%B8%B0+%EC%98%A5%EC%88%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=pbks+vs+mi&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
