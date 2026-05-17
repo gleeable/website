@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-05-16 16:06:32",
-  "updated_at_kst": "2026-05-17 01:06:32",
+  "updated_at": "2026-05-17 16:07:11",
+  "updated_at_kst": "2026-05-18 01:07:11",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "문상훈",
+      "title": "초 가공 식품",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%AC%B8%EC%83%81%ED%9B%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B4%88+%EA%B0%80%EA%B3%B5+%EC%8B%9D%ED%92%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "첼시",
+      "title": "카리나",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B2%BC%EC%8B%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B9%B4%EB%A6%AC%EB%82%98&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "21세기 대군부인",
+      "title": "호일룬",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=21%EC%84%B8%EA%B8%B0+%EB%8C%80%EA%B5%B0%EB%B6%80%EC%9D%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%98%B8%EC%9D%BC%EB%A3%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "челси – манчестер сити",
+      "title": "우상혁",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%D1%87%D0%B5%D0%BB%D1%81%D0%B8+%E2%80%93+%D0%BC%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80+%D1%81%D0%B8%D1%82%D0%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9A%B0%EC%83%81%ED%98%81&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "모자무싸",
+      "title": "rr vs dc",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%AA%A8%EC%9E%90%EB%AC%B4%EC%8B%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=rr+vs+dc&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
