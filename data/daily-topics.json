@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-05-20 17:58:30",
-  "updated_at_kst": "2026-05-21 02:58:30",
+  "updated_at": "2026-05-21 17:33:04",
+  "updated_at_kst": "2026-05-22 02:33:04",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "서브노티카 2",
+      "title": "김부선",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%84%9C%EB%B8%8C%EB%85%B8%ED%8B%B0%EC%B9%B4+2&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EB%B6%80%EC%84%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "생존왕 2",
+      "title": "이라올라",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%83%9D%EC%A1%B4%EC%99%95+2&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EB%9D%BC%EC%98%AC%EB%9D%BC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "정우성",
+      "title": "서울시립대학교",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%95%EC%9A%B0%EC%84%B1&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%8C%80%ED%95%99%EA%B5%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "금리",
+      "title": "노유민",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B8%88%EB%A6%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%85%B8%EC%9C%A0%EB%AF%BC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "현대건설",
+      "title": "저축",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%98%84%EB%8C%80%EA%B1%B4%EC%84%A4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%80%EC%B6%95&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
