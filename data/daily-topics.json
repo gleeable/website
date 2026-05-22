@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-05-21 17:33:04",
-  "updated_at_kst": "2026-05-22 02:33:04",
+  "updated_at": "2026-05-22 17:17:26",
+  "updated_at_kst": "2026-05-23 02:17:26",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "김부선",
+      "title": "f1",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B9%80%EB%B6%80%EC%84%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=f1&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이라올라",
+      "title": "김동현",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EB%9D%BC%EC%98%AC%EB%9D%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EB%8F%99%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "서울시립대학교",
+      "title": "추경호",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%8C%80%ED%95%99%EA%B5%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B6%94%EA%B2%BD%ED%98%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "노유민",
+      "title": "화물선",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%85%B8%EC%9C%A0%EB%AF%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%99%94%EB%AC%BC%EC%84%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "저축",
+      "title": "노무현",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%80%EC%B6%95&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%85%B8%EB%AC%B4%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
