@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-05-25 17:15:07",
-  "updated_at_kst": "2026-05-26 02:15:07",
+  "updated_at": "2026-05-26 18:05:16",
+  "updated_at_kst": "2026-05-27 03:05:16",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "무엇이든 물어보살",
+      "title": "이진숙",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0+%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%A7%84%EC%88%99&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "신세계그룹",
+      "title": "사비뉴",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%8B%A0%EC%84%B8%EA%B3%84%EA%B7%B8%EB%A3%B9&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%82%AC%EB%B9%84%EB%89%B4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "아베 신노스케",
+      "title": "심형탁",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%95%84%EB%B2%A0+%EC%8B%A0%EB%85%B8%EC%8A%A4%EC%BC%80&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%8B%AC%ED%98%95%ED%83%81&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "어선",
+      "title": "제니",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%96%B4%EC%84%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%9C%EB%8B%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "라도 윤보미",
+      "title": "원룸 주택",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%9D%BC%EB%8F%84+%EC%9C%A4%EB%B3%B4%EB%AF%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9B%90%EB%A3%B8+%EC%A3%BC%ED%83%9D&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
