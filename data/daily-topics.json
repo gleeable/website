@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-05-29 18:15:37",
-  "updated_at_kst": "2026-05-30 03:15:37",
+  "updated_at": "2026-05-30 16:13:00",
+  "updated_at_kst": "2026-05-31 01:13:00",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "만달로리안",
+      "title": "psg đấu với arsenal",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A7%8C%EB%8B%AC%EB%A1%9C%EB%A6%AC%EC%95%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=psg+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+arsenal&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "artificial intelligence news",
+      "title": "양상국",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=artificial+intelligence+news&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%96%91%EC%83%81%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "pba 팀리그",
+      "title": "메이플자이",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=pba+%ED%8C%80%EB%A6%AC%EA%B7%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A9%94%EC%9D%B4%ED%94%8C%EC%9E%90%EC%9D%B4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "원이",
+      "title": "흐비차",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9B%90%EC%9D%B4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%9D%90%EB%B9%84%EC%B0%A8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "지드래곤",
+      "title": "psg 대 아스널",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A7%80%EB%93%9C%EB%9E%98%EA%B3%A4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=psg+%EB%8C%80+%EC%95%84%EC%8A%A4%EB%84%90&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
