@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-05-30 16:13:00",
-  "updated_at_kst": "2026-05-31 01:13:00",
+  "updated_at": "2026-05-31 16:20:47",
+  "updated_at_kst": "2026-06-01 01:20:47",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "psg đấu với arsenal",
+      "title": "박준금",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=psg+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+arsenal&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%A4%80%EA%B8%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "양상국",
+      "title": "xsmb",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%96%91%EC%83%81%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=xsmb&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "메이플자이",
+      "title": "싱가포르 오픈",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A9%94%EC%9D%B4%ED%94%8C%EC%9E%90%EC%9D%B4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4+%EC%98%A4%ED%94%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "흐비차",
+      "title": "농작물",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%9D%90%EB%B9%84%EC%B0%A8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%86%8D%EC%9E%91%EB%AC%BC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "psg 대 아스널",
+      "title": "1박2일",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=psg+%EB%8C%80+%EC%95%84%EC%8A%A4%EB%84%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=1%EB%B0%952%EC%9D%BC&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
