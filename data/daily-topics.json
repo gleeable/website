@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-06-11 18:26:10",
-  "updated_at_kst": "2026-06-12 03:26:10",
+  "updated_at": "2026-06-12 17:40:59",
+  "updated_at_kst": "2026-06-13 02:40:59",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "미국",
+      "title": "대한민국 교육부",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%AF%B8%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EA%B5%90%EC%9C%A1%EB%B6%80&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "fifa world cup 2026 start date",
+      "title": "문채원",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=fifa+world+cup+2026+start+date&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%AC%B8%EC%B1%84%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "기아 pv5",
+      "title": "주한 미군",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B8%B0%EC%95%84+pv5&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A3%BC%ED%95%9C+%EB%AF%B8%EA%B5%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "2026 年 fifa 世界杯",
+      "title": "한진만",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=2026+%E5%B9%B4+fifa+%E4%B8%96%E7%95%8C%E6%9D%AF&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%95%9C%EC%A7%84%EB%A7%8C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이상화",
+      "title": "육아",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%83%81%ED%99%94&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9C%A1%EC%95%84&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
