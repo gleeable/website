@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-06-16 18:56:13",
-  "updated_at_kst": "2026-06-17 03:56:13",
+  "updated_at": "2026-06-17 17:51:35",
+  "updated_at_kst": "2026-06-18 02:51:35",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "google usa",
+      "title": "portugal vs dr congo",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=google+usa&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=portugal+vs+dr+congo&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "인천재활용센터",
+      "title": "콩고",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B8%EC%B2%9C%EC%9E%AC%ED%99%9C%EC%9A%A9%EC%84%BC%ED%84%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%BD%A9%EA%B3%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "화사",
+      "title": "포르투갈 대 콩고 민주 공화국",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%99%94%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%8F%AC%EB%A5%B4%ED%88%AC%EA%B0%88+%EB%8C%80+%EC%BD%A9%EA%B3%A0+%EB%AF%BC%EC%A3%BC+%EA%B3%B5%ED%99%94%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "문희준",
+      "title": "감염",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%AC%B8%ED%9D%AC%EC%A4%80&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B0%90%EC%97%BC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "일베",
+      "title": "포르투갈 축구 국가대표팀",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%BC%EB%B2%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%8F%AC%EB%A5%B4%ED%88%AC%EA%B0%88+%EC%B6%95%EA%B5%AC+%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C%ED%8C%80&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
