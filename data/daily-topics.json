@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-06-17 17:51:35",
-  "updated_at_kst": "2026-06-18 02:51:35",
+  "updated_at": "2026-06-18 18:09:57",
+  "updated_at_kst": "2026-06-19 03:09:57",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "portugal vs dr congo",
+      "title": "남아공",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=portugal+vs+dr+congo&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%82%A8%EC%95%84%EA%B3%B5&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "콩고",
+      "title": "디오망데",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%BD%A9%EA%B3%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%94%94%EC%98%A4%EB%A7%9D%EB%8D%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "포르투갈 대 콩고 민주 공화국",
+      "title": "세균",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%8F%AC%EB%A5%B4%ED%88%AC%EA%B0%88+%EB%8C%80+%EC%BD%A9%EA%B3%A0+%EB%AF%BC%EC%A3%BC+%EA%B3%B5%ED%99%94%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%84%B8%EA%B7%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "감염",
+      "title": "체코 대 남아공",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B0%90%EC%97%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B2%B4%EC%BD%94+%EB%8C%80+%EB%82%A8%EC%95%84%EA%B3%B5&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "포르투갈 축구 국가대표팀",
+      "title": "czechia vs south africa",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%8F%AC%EB%A5%B4%ED%88%AC%EA%B0%88+%EC%B6%95%EA%B5%AC+%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C%ED%8C%80&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=czechia+vs+south+africa&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
