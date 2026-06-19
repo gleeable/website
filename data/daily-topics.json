@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-06-18 18:09:57",
-  "updated_at_kst": "2026-06-19 03:09:57",
+  "updated_at": "2026-06-19 17:24:20",
+  "updated_at_kst": "2026-06-20 02:24:20",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "남아공",
+      "title": "안정환",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%82%A8%EC%95%84%EA%B3%B5&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%88%EC%A0%95%ED%99%98&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "디오망데",
+      "title": "박명수",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%94%94%EC%98%A4%EB%A7%9D%EB%8D%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%95%EB%AA%85%EC%88%98&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "세균",
+      "title": "류혜영",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%84%B8%EA%B7%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A5%98%ED%98%9C%EC%98%81&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "체코 대 남아공",
+      "title": "toy story 5",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B2%B4%EC%BD%94+%EB%8C%80+%EB%82%A8%EC%95%84%EA%B3%B5&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=toy+story+5&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "czechia vs south africa",
+      "title": "김용현",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=czechia+vs+south+africa&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%9A%A9%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
