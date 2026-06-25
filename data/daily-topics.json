@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-06-24 17:14:53",
-  "updated_at_kst": "2026-06-25 02:14:53",
+  "updated_at": "2026-06-25 17:20:46",
+  "updated_at_kst": "2026-06-26 02:20:46",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "근로장려금",
+      "title": "빗썸",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B7%BC%EB%A1%9C%EC%9E%A5%EB%A0%A4%EA%B8%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B9%97%EC%8D%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "영화",
+      "title": "최지만",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%98%81%ED%99%94&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B5%9C%EC%A7%80%EB%A7%8C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "gta6 사전예약",
+      "title": "서울특별시교육청",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=gta6+%EC%82%AC%EC%A0%84%EC%98%88%EC%95%BD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%EA%B5%90%EC%9C%A1%EC%B2%AD&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이가 시비옹테크",
+      "title": "수국",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EA%B0%80+%EC%8B%9C%EB%B9%84%EC%98%B9%ED%85%8C%ED%81%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%88%98%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "fifa world cup 2026 standings",
+      "title": "팔란티어",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=fifa+world+cup+2026+standings&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
