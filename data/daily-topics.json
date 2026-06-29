@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-06-28 16:21:35",
-  "updated_at_kst": "2026-06-29 01:21:35",
+  "updated_at": "2026-06-29 17:46:04",
+  "updated_at_kst": "2026-06-30 02:46:04",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "f1",
+      "title": "브라질 대 일본",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=f1&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B8%8C%EB%9D%BC%EC%A7%88+%EB%8C%80+%EC%9D%BC%EB%B3%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "수출",
+      "title": "brazil vs japan",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%88%98%EC%B6%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=brazil+vs+japan&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "설기현",
+      "title": "전북 특별 자치 도지사",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%84%A4%EA%B8%B0%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%84%EB%B6%81+%ED%8A%B9%EB%B3%84+%EC%9E%90%EC%B9%98+%EB%8F%84%EC%A7%80%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "한국경제신문",
+      "title": "권순우",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C%EC%8B%A0%EB%AC%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B6%8C%EC%88%9C%EC%9A%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "강회장",
+      "title": "wimbledon",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B0%95%ED%9A%8C%EC%9E%A5&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=wimbledon&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
