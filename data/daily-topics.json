@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-06-29 17:46:04",
-  "updated_at_kst": "2026-06-30 02:46:04",
+  "updated_at": "2026-06-30 17:10:43",
+  "updated_at_kst": "2026-07-01 02:10:43",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "브라질 대 일본",
+      "title": "중앙그룹",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B8%8C%EB%9D%BC%EC%A7%88+%EB%8C%80+%EC%9D%BC%EB%B3%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A4%91%EC%95%99%EA%B7%B8%EB%A3%B9&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "brazil vs japan",
+      "title": "대한민국 과학기술정보통신부",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=brazil+vs+japan&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%B6%80&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "전북 특별 자치 도지사",
+      "title": "kt vs hanwha",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%84%EB%B6%81+%ED%8A%B9%EB%B3%84+%EC%9E%90%EC%B9%98+%EB%8F%84%EC%A7%80%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=kt+vs+hanwha&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "권순우",
+      "title": "테일러 프리츠",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B6%8C%EC%88%9C%EC%9A%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%85%8C%EC%9D%BC%EB%9F%AC+%ED%94%84%EB%A6%AC%EC%B8%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "wimbledon",
+      "title": "문원",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=wimbledon&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%AC%B8%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
