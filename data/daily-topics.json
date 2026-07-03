@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-07-02 16:58:49",
-  "updated_at_kst": "2026-07-03 01:58:49",
+  "updated_at": "2026-07-03 16:42:39",
+  "updated_at_kst": "2026-07-04 01:42:39",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "알렉산더 즈베레프",
+      "title": "유조선",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94+%EC%A6%88%EB%B2%A0%EB%A0%88%ED%94%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9C%A0%EC%A1%B0%EC%84%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "다니엘",
+      "title": "임종훈",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%8B%A4%EB%8B%88%EC%97%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9E%84%EC%A2%85%ED%9B%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "프로당구협회",
+      "title": "자승",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%94%84%EB%A1%9C%EB%8B%B9%EA%B5%AC%ED%98%91%ED%9A%8C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9E%90%EC%8A%B9&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "홍명보 출국",
+      "title": "트로트",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%99%8D%EB%AA%85%EB%B3%B4+%EC%B6%9C%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%8A%B8%EB%A1%9C%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "lg에너지솔루션",
+      "title": "야닉 시너",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=lg%EC%97%90%EB%84%88%EC%A7%80%EC%86%94%EB%A3%A8%EC%85%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%BC%EB%8B%89+%EC%8B%9C%EB%84%88&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
