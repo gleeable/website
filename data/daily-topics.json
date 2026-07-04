@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-07-03 16:42:39",
-  "updated_at_kst": "2026-07-04 01:42:39",
+  "updated_at": "2026-07-04 16:12:53",
+  "updated_at_kst": "2026-07-05 01:12:53",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "유조선",
+      "title": "2026 fifa 월드컵",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9C%A0%EC%A1%B0%EC%84%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=2026+fifa+%EC%9B%94%EB%93%9C%EC%BB%B5&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "임종훈",
+      "title": "fifa world cup 2026",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9E%84%EC%A2%85%ED%9B%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=fifa+world+cup+2026&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "자승",
+      "title": "김부장",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9E%90%EC%8A%B9&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EB%B6%80%EC%9E%A5&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "트로트",
+      "title": "ind vs eng",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%8A%B8%EB%A1%9C%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=ind+vs+eng&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "야닉 시너",
+      "title": "이가 시비옹테크",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%95%BC%EB%8B%89+%EC%8B%9C%EB%84%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EA%B0%80+%EC%8B%9C%EB%B9%84%EC%98%B9%ED%85%8C%ED%81%AC&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
