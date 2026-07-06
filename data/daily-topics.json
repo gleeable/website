@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-07-05 16:16:26",
-  "updated_at_kst": "2026-07-06 01:16:26",
+  "updated_at": "2026-07-06 17:48:48",
+  "updated_at_kst": "2026-07-07 02:48:48",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "셰프",
+      "title": "이강인, 아틀레티코",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%85%B0%ED%94%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EA%B0%95%EC%9D%B8%2C+%EC%95%84%ED%8B%80%EB%A0%88%ED%8B%B0%EC%BD%94&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "브라질 노르웨이",
+      "title": "7월7일",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B8%8C%EB%9D%BC%EC%A7%88+%EB%85%B8%EB%A5%B4%EC%9B%A8%EC%9D%B4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=7%EC%9B%947%EC%9D%BC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "파산",
+      "title": "두산 로보틱스",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%8C%8C%EC%82%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%91%90%EC%82%B0+%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "대전 도시철도 2호선",
+      "title": "이루",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%8C%80%EC%A0%84+%EB%8F%84%EC%8B%9C%EC%B2%A0%EB%8F%84+2%ED%98%B8%EC%84%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EB%A3%A8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이엘",
+      "title": "이희구",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%97%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%ED%9D%AC%EA%B5%AC&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
