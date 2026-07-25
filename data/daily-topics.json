@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-07-24 16:52:29",
-  "updated_at_kst": "2026-07-25 01:52:29",
+  "updated_at": "2026-07-25 16:10:34",
+  "updated_at_kst": "2026-07-26 01:10:34",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "르브론",
+      "title": "구름",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A5%B4%EB%B8%8C%EB%A1%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B5%AC%EB%A6%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "lebron james",
+      "title": "블리치",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=lebron+james&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B8%94%EB%A6%AC%EC%B9%98&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "야구여왕",
+      "title": "서훈",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%95%BC%EA%B5%AC%EC%97%AC%EC%99%95&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%84%9C%ED%9B%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "로센보르그 대 맨유",
+      "title": "나솔사계",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A1%9C%EC%84%BC%EB%B3%B4%EB%A5%B4%EA%B7%B8+%EB%8C%80+%EB%A7%A8%EC%9C%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "1 박 2 일",
+      "title": "추경호",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=1+%EB%B0%95+2+%EC%9D%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B6%94%EA%B2%BD%ED%98%B8&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
