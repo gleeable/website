@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-07-25 16:10:34",
-  "updated_at_kst": "2026-07-26 01:10:34",
+  "updated_at": "2026-07-26 16:11:09",
+  "updated_at_kst": "2026-07-27 01:11:09",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "구름",
+      "title": "비비 워터 밤",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B5%AC%EB%A6%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B9%84%EB%B9%84+%EC%9B%8C%ED%84%B0+%EB%B0%A4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "블리치",
+      "title": "정전",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B8%94%EB%A6%AC%EC%B9%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%95%EC%A0%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "서훈",
+      "title": "오연수",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%84%9C%ED%9B%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%98%A4%EC%97%B0%EC%88%98&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "나솔사계",
+      "title": "앤 트로픽",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%A4+%ED%8A%B8%EB%A1%9C%ED%94%BD&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "추경호",
+      "title": "한상진",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B6%94%EA%B2%BD%ED%98%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%95%9C%EC%83%81%EC%A7%84&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
