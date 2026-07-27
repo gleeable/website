@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-07-26 16:11:09",
-  "updated_at_kst": "2026-07-27 01:11:09",
+  "updated_at": "2026-07-27 17:04:53",
+  "updated_at_kst": "2026-07-28 02:04:53",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "비비 워터 밤",
+      "title": "은행",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B9%84%EB%B9%84+%EC%9B%8C%ED%84%B0+%EB%B0%A4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%80%ED%96%89&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "정전",
+      "title": "정선희",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%95%EC%A0%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%95%EC%84%A0%ED%9D%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "오연수",
+      "title": "중국 duv",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%98%A4%EC%97%B0%EC%88%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A4%91%EA%B5%AD+duv&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "앤 트로픽",
+      "title": "duv",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%95%A4+%ED%8A%B8%EB%A1%9C%ED%94%BD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=duv&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "한상진",
+      "title": "elle",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%95%9C%EC%83%81%EC%A7%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=elle&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
