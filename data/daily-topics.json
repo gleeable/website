@@ -1,22 +1,12 @@
 {
-  "updated_at": "2026-07-29 16:36:42",
-  "updated_at_kst": "2026-07-30 01:36:42",
+  "updated_at": "2026-07-30 16:43:29",
+  "updated_at_kst": "2026-07-31 01:43:29",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "차영현",
+      "title": "이영애",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B0%A8%EC%98%81%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
-    },
-    {
-      "title": "글렌 한사드",
-      "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B8%80%EB%A0%8C+%ED%95%9C%EC%82%AC%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko"
-    },
-    {
-      "title": "전북특별자치도지사",
-      "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%EC%A7%80%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%98%81%EC%95%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
       "title": "sadie sink",
@@ -24,9 +14,19 @@
       "news_url": "https://news.google.com/search?q=sadie+sink&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "최정원",
+      "title": "ramayana trailer 2026",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B5%9C%EC%A0%95%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=ramayana+trailer+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "title": "간선 급행 버스 체계",
+      "summary": "오늘 급상승 검색어 기반 주제",
+      "news_url": "https://news.google.com/search?q=%EA%B0%84%EC%84%A0+%EA%B8%89%ED%96%89+%EB%B2%84%EC%8A%A4+%EC%B2%B4%EA%B3%84&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "title": "톰 홀랜드",
+      "summary": "오늘 급상승 검색어 기반 주제",
+      "news_url": "https://news.google.com/search?q=%ED%86%B0+%ED%99%80%EB%9E%9C%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
