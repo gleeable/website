@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-08-08 15:39:00",
-  "updated_at_kst": "2026-08-09 00:39:00",
+  "updated_at": "2026-08-09 15:41:12",
+  "updated_at_kst": "2026-08-10 00:41:12",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "트로이",
+      "title": "피부암",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%8A%B8%EB%A1%9C%EC%9D%B4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%94%BC%EB%B6%80%EC%95%94&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "토트넘",
+      "title": "arsenal",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%86%A0%ED%8A%B8%EB%84%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=arsenal&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "대한당구연맹",
+      "title": "관리종목",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%8C%80%ED%95%9C%EB%8B%B9%EA%B5%AC%EC%97%B0%EB%A7%B9&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B4%80%EB%A6%AC%EC%A2%85%EB%AA%A9&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "리그컵",
+      "title": "교회",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A6%AC%EA%B7%B8%EC%BB%B5&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B5%90%ED%9A%8C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "chelsea vs milan",
+      "title": "경기도",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=chelsea+vs+milan&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B2%BD%EA%B8%B0%EB%8F%84&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
