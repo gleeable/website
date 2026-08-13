@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-08-12 16:05:42",
-  "updated_at_kst": "2026-08-13 01:05:42",
+  "updated_at": "2026-08-13 16:05:48",
+  "updated_at_kst": "2026-08-14 01:05:48",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "주진우",
+      "title": "사랑 이 온다",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A3%BC%EC%A7%84%EC%9A%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%82%AC%EB%9E%91+%EC%9D%B4+%EC%98%A8%EB%8B%A4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "정국",
+      "title": "삼계탕 사발면",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%95%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%82%BC%EA%B3%84%ED%83%95+%EC%82%AC%EB%B0%9C%EB%A9%B4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "더불어민주당",
+      "title": "학교",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%95%99%EA%B5%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이동국",
+      "title": "행동",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EB%8F%99%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%96%89%EB%8F%99&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "온유",
+      "title": "캐나다",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%98%A8%EC%9C%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%BA%90%EB%82%98%EB%8B%A4&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
