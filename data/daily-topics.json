@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-08-14 16:00:44",
-  "updated_at_kst": "2026-08-15 01:00:44",
+  "updated_at": "2026-08-15 15:30:41",
+  "updated_at_kst": "2026-08-16 00:30:41",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "돈",
+      "title": "milan vs man united",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%8F%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=milan+vs+man+united&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "김원중",
+      "title": "milan đấu với man utd",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%9B%90%EC%A4%91&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=milan+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+man+utd&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "용인시",
+      "title": "나상도",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9A%A9%EC%9D%B8%EC%8B%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%82%98%EC%83%81%EB%8F%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "변호사",
+      "title": "그래미 어워드",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B3%80%ED%98%B8%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B7%B8%EB%9E%98%EB%AF%B8+%EC%96%B4%EC%9B%8C%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "양정아",
+      "title": "밀란 대 맨유",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%96%91%EC%A0%95%EC%95%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%80%EB%9E%80+%EB%8C%80+%EB%A7%A8%EC%9C%A0&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
