@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-08-18 15:40:50",
-  "updated_at_kst": "2026-08-19 00:40:50",
+  "updated_at": "2026-08-19 15:40:24",
+  "updated_at_kst": "2026-08-20 00:40:24",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "서장훈의 이웃집 백만장 자",
+      "title": "오싹한 연애",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%84%9C%EC%9E%A5%ED%9B%88%EC%9D%98+%EC%9D%B4%EC%9B%83%EC%A7%91+%EB%B0%B1%EB%A7%8C%EC%9E%A5+%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%98%A4%EC%8B%B9%ED%95%9C+%EC%97%B0%EC%95%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "태국 대 싱가포르",
+      "title": "연애",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%83%9C%EA%B5%AD+%EB%8C%80+%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%97%B0%EC%95%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "mathilde favier",
+      "title": "김윤덕",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=mathilde+favier&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%9C%A4%EB%8D%95&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "enc",
+      "title": "서승재",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=enc&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%84%9C%EC%8A%B9%EC%9E%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "삼성라이온즈",
+      "title": "롯데손해보험",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%82%BC%EC%84%B1%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A1%AF%EB%8D%B0%EC%86%90%ED%95%B4%EB%B3%B4%ED%97%98&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
