@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-08-28 00:22:03",
-  "updated_at_kst": "2026-08-28 09:22:03",
+  "updated_at": "2026-08-28 23:59:38",
+  "updated_at_kst": "2026-08-29 08:59:38",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "금융감독원",
+      "title": "연금",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B8%88%EC%9C%B5%EA%B0%90%EB%8F%85%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%97%B0%EA%B8%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "리벨리온",
+      "title": "서건창",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A6%AC%EB%B2%A8%EB%A6%AC%EC%98%A8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%84%9C%EA%B1%B4%EC%B0%BD&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "회사",
+      "title": "축구 감독",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%9A%8C%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B6%95%EA%B5%AC+%EA%B0%90%EB%8F%85&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "박지현",
+      "title": "김혜수",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%A7%80%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%ED%98%9C%EC%88%98&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "발로란트",
+      "title": "황정음",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%99%A9%EC%A0%95%EC%9D%8C&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
