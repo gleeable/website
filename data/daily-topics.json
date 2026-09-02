@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-09-01 18:24:21",
-  "updated_at_kst": "2026-09-02 03:24:21",
+  "updated_at": "2026-09-02 18:36:27",
+  "updated_at_kst": "2026-09-03 03:36:27",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "jyp 엔터테인먼트",
+      "title": "카사마츠 쇼",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=jyp+%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B9%B4%EC%82%AC%EB%A7%88%EC%B8%A0+%EC%87%BC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "기아 쏘렌토",
+      "title": "투표용지",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B8%B0%EC%95%84+%EC%8F%98%EB%A0%8C%ED%86%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "박신혜",
+      "title": "여자 야구",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%8B%A0%ED%98%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%97%AC%EC%9E%90+%EC%95%BC%EA%B5%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이민정",
+      "title": "박재홍",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EB%AF%BC%EC%A0%95&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%9E%AC%ED%99%8D&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "조국",
+      "title": "아시안 게임 야구",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A1%B0%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%84%EC%8B%9C%EC%95%88+%EA%B2%8C%EC%9E%84+%EC%95%BC%EA%B5%AC&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
