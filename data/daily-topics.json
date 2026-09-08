@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-09-07 19:06:43",
-  "updated_at_kst": "2026-09-08 04:06:43",
+  "updated_at": "2026-09-08 18:33:51",
+  "updated_at_kst": "2026-09-09 03:33:51",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "김새론",
+      "title": "인플루언서",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%83%88%EB%A1%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "윤종훈",
+      "title": "풍자",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9C%A4%EC%A2%85%ED%9B%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%92%8D%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "로또 1 등도 출근 합니다",
+      "title": "양구",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A1%9C%EB%98%90+1+%EB%93%B1%EB%8F%84+%EC%B6%9C%EA%B7%BC+%ED%95%A9%EB%8B%88%EB%8B%A4&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%96%91%EA%B5%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "피의자",
+      "title": "메이드인코리아 시즌2",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%94%BC%EC%9D%98%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A9%94%EC%9D%B4%EB%93%9C%EC%9D%B8%EC%BD%94%EB%A6%AC%EC%95%84+%EC%8B%9C%EC%A6%8C2&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "나는 solo",
+      "title": "신병",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%82%98%EB%8A%94+solo&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%8B%A0%EB%B3%91&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
