@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-09-08 18:33:51",
-  "updated_at_kst": "2026-09-09 03:33:51",
+  "updated_at": "2026-09-09 18:30:24",
+  "updated_at_kst": "2026-09-10 03:30:24",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "인플루언서",
+      "title": "iphone",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=iphone&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "풍자",
+      "title": "애플",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%92%8D%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%A0%ED%94%8C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "양구",
+      "title": "보통주",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%96%91%EA%B5%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B3%B4%ED%86%B5%EC%A3%BC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "메이드인코리아 시즌2",
+      "title": "파주 냉동창고",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A9%94%EC%9D%B4%EB%93%9C%EC%9D%B8%EC%BD%94%EB%A6%AC%EC%95%84+%EC%8B%9C%EC%A6%8C2&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%8C%8C%EC%A3%BC+%EB%83%89%EB%8F%99%EC%B0%BD%EA%B3%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "신병",
+      "title": "틈만나면,",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%8B%A0%EB%B3%91&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%8B%88%EB%A7%8C%EB%82%98%EB%A9%B4%2C&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
