@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-09-14 19:49:04",
-  "updated_at_kst": "2026-09-15 04:49:04",
+  "updated_at": "2026-09-15 18:54:28",
+  "updated_at_kst": "2026-09-16 03:54:28",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "함소원",
+      "title": "톰 홀랜드",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%95%A8%EC%86%8C%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%86%B0+%ED%99%80%EB%9E%9C%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "마약",
+      "title": "堀大輔",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A7%88%EC%95%BD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%E5%A0%80%E5%A4%A7%E8%BC%94&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "앨런 리치슨",
+      "title": "서장훈의 이웃집 백만장자",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%95%A8%EB%9F%B0+%EB%A6%AC%EC%B9%98%EC%8A%A8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%84%9C%EC%9E%A5%ED%9B%88%EC%9D%98+%EC%9D%B4%EC%9B%83%EC%A7%91+%EB%B0%B1%EB%A7%8C%EC%9E%A5%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "전투기 조종사",
+      "title": "퇴학",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A0%84%ED%88%AC%EA%B8%B0+%EC%A1%B0%EC%A2%85%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%87%B4%ED%95%99&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "그랜드 테프트 오토 vi",
+      "title": "정종철",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B7%B8%EB%9E%9C%EB%93%9C+%ED%85%8C%ED%94%84%ED%8A%B8+%EC%98%A4%ED%86%A0+vi&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A0%95%EC%A2%85%EC%B2%A0&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
