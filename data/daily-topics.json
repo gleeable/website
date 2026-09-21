@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-09-20 18:10:38",
-  "updated_at_kst": "2026-09-21 03:10:38",
+  "updated_at": "2026-09-21 19:57:03",
+  "updated_at_kst": "2026-09-22 04:57:03",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "instagram",
+      "title": "구글",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=instagram&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B5%AC%EA%B8%80&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "레알마드리드",
+      "title": "업비트",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A0%88%EC%95%8C%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%97%85%EB%B9%84%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "축구중계",
+      "title": "윤동희",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B6%95%EA%B5%AC%EC%A4%91%EA%B3%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9C%A4%EB%8F%99%ED%9D%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "리버풀",
+      "title": "조병현",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A6%AC%EB%B2%84%ED%92%80&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A1%B0%EB%B3%91%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "맨시티",
+      "title": "치지직",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A7%A8%EC%8B%9C%ED%8B%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B9%98%EC%A7%80%EC%A7%81&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
