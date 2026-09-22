@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-09-21 19:57:03",
-  "updated_at_kst": "2026-09-22 04:57:03",
+  "updated_at": "2026-09-22 18:48:03",
+  "updated_at_kst": "2026-09-23 03:48:03",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "구글",
+      "title": "죽음",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B5%AC%EA%B8%80&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%A3%BD%EC%9D%8C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "업비트",
+      "title": "김혜수",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%97%85%EB%B9%84%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%ED%98%9C%EC%88%98&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "윤동희",
+      "title": "무신사",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9C%A4%EB%8F%99%ED%9D%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%AC%B4%EC%8B%A0%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "조병현",
+      "title": "편의점",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A1%B0%EB%B3%91%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%8E%B8%EC%9D%98%EC%A0%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "치지직",
+      "title": "신병",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B9%98%EC%A7%80%EC%A7%81&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%8B%A0%EB%B3%91&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
