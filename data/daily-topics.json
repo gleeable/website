@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-09-24 19:03:26",
-  "updated_at_kst": "2026-09-25 04:03:26",
+  "updated_at": "2026-09-25 19:12:59",
+  "updated_at_kst": "2026-09-26 04:12:59",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "중추절",
+      "title": "윌스미스",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A4%91%EC%B6%94%EC%A0%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9C%8C%EC%8A%A4%EB%AF%B8%EC%8A%A4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이창섭",
+      "title": "olympia",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%B0%BD%EC%84%AD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=olympia&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "박찬호",
+      "title": "하주석",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%B0%AC%ED%98%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%95%98%EC%A3%BC%EC%84%9D&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "심형래",
+      "title": "맨시티",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%8B%AC%ED%98%95%EB%9E%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A7%A8%EC%8B%9C%ED%8B%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "신뢰도",
+      "title": "이승철",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%8B%A0%EB%A2%B0%EB%8F%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%8A%B9%EC%B2%A0&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
