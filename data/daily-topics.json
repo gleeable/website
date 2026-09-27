@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-09-26 18:31:26",
-  "updated_at_kst": "2026-09-27 03:31:26",
+  "updated_at": "2026-09-27 18:57:52",
+  "updated_at_kst": "2026-09-28 03:57:52",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "이창섭",
+      "title": "신병",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%B0%BD%EC%84%AD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%8B%A0%EB%B3%91&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "윤아",
+      "title": "로드리고 벤탕쿠르",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9C%A4%EC%95%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A1%9C%EB%93%9C%EB%A6%AC%EA%B3%A0+%EB%B2%A4%ED%83%95%EC%BF%A0%EB%A5%B4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "왕사남",
+      "title": "심진화",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%99%95%EC%82%AC%EB%82%A8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%8B%AC%EC%A7%84%ED%99%94&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "지선",
+      "title": "나경원",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A7%80%EC%84%A0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%82%98%EA%B2%BD%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "휴게소",
+      "title": "로봇",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%9C%B4%EA%B2%8C%EC%86%8C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A1%9C%EB%B4%87&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
