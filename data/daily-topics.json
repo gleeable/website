@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-10-07 20:33:36",
-  "updated_at_kst": "2026-10-08 05:33:36",
+  "updated_at": "2026-10-08 20:39:36",
+  "updated_at_kst": "2026-10-09 05:39:36",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "역주행",
+      "title": "북한이탈주민",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%97%AD%EC%A3%BC%ED%96%89&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B6%81%ED%95%9C%EC%9D%B4%ED%83%88%EC%A3%BC%EB%AF%BC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "숙행",
+      "title": "이정현",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%88%99%ED%96%89&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%A0%95%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "박지원",
+      "title": "쿠팡",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%A7%80%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%BF%A0%ED%8C%A1&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "백령도",
+      "title": "ps",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%B1%EB%A0%B9%EB%8F%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=ps&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "world space week 2026",
+      "title": "장민호",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=world+space+week+2026&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9E%A5%EB%AF%BC%ED%98%B8&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
