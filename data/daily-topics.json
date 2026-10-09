@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-10-08 20:39:36",
-  "updated_at_kst": "2026-10-09 05:39:36",
+  "updated_at": "2026-10-09 20:04:13",
+  "updated_at_kst": "2026-10-10 05:04:13",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "북한이탈주민",
+      "title": "애덤 올러",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B6%81%ED%95%9C%EC%9D%B4%ED%83%88%EC%A3%BC%EB%AF%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%A0%EB%8D%A4+%EC%98%AC%EB%9F%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이정현",
+      "title": "김신영",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%A0%95%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%8B%A0%EC%98%81&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "쿠팡",
+      "title": "구창모",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%BF%A0%ED%8C%A1&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B5%AC%EC%B0%BD%EB%AA%A8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "ps",
+      "title": "판결",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=ps&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%8C%90%EA%B2%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "장민호",
+      "title": "광주광역시",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9E%A5%EB%AF%BC%ED%98%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
