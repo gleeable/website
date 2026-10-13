@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-10-12 22:28:18",
-  "updated_at_kst": "2026-10-13 07:28:18",
+  "updated_at": "2026-10-13 20:36:35",
+  "updated_at_kst": "2026-10-14 05:36:35",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "weather",
+      "title": "อัตเลติโกมาดริด พบ แมนยู",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=weather&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B9%80%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B9%82%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B8%B4%E0%B8%94+%E0%B8%9E%E0%B8%9A+%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%A2%E0%B8%B9&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이재명",
+      "title": "atlético madrid đấu với man utd",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%9E%AC%EB%AA%85&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=atl%C3%A9tico+madrid+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+man+utd&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "아이온큐",
+      "title": "atlético vs man utd",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%95%84%EC%9D%B4%EC%98%A8%ED%81%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=atl%C3%A9tico+vs+man+utd&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "thời tiết",
+      "title": "비야레알 대 나폴리",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=th%E1%BB%9Di+ti%E1%BA%BFt&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B9%84%EC%95%BC%EB%A0%88%EC%95%8C+%EB%8C%80+%EB%82%98%ED%8F%B4%EB%A6%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "погода",
+      "title": "아스날",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%84%EC%8A%A4%EB%82%A0&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
