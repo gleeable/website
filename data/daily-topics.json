@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-10-16 18:45:16",
-  "updated_at_kst": "2026-10-17 03:45:16",
+  "updated_at": "2026-10-17 17:50:37",
+  "updated_at_kst": "2026-10-18 02:50:37",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "박준금",
+      "title": "psg",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%95%EC%A4%80%EA%B8%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=psg&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "l g 에너지 솔루션",
+      "title": "맨시티",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=l+g+%EC%97%90%EB%84%88%EC%A7%80+%EC%86%94%EB%A3%A8%EC%85%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A7%A8%EC%8B%9C%ED%8B%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "유실물",
+      "title": "betis vs barcelona",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9C%A0%EC%8B%A4%EB%AC%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=betis+vs+barcelona&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "지예은",
+      "title": "이재성",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A7%80%EC%98%88%EC%9D%80&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%9E%AC%EC%84%B1&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "최예나",
+      "title": "liverpool",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B5%9C%EC%98%88%EB%82%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=liverpool&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
