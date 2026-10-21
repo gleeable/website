@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-10-20 19:09:35",
-  "updated_at_kst": "2026-10-21 04:09:35",
+  "updated_at": "2026-10-21 19:15:15",
+  "updated_at_kst": "2026-10-22 04:15:15",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "도르트문트",
+      "title": "바이에른 대 아스널",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%8F%84%EB%A5%B4%ED%8A%B8%EB%AC%B8%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B0%94%EC%9D%B4%EC%97%90%EB%A5%B8+%EB%8C%80+%EC%95%84%EC%8A%A4%EB%84%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "뉴데일리",
+      "title": "레알 마드리드 대 라이프치히",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%89%B4%EB%8D%B0%EC%9D%BC%EB%A6%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A0%88%EC%95%8C+%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C+%EB%8C%80+%EB%9D%BC%EC%9D%B4%ED%94%84%EC%B9%98%ED%9E%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "pakistan national cricket team vs england cricket team standings",
+      "title": "최형우",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=pakistan+national+cricket+team+vs+england+cricket+team+standings&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%B5%9C%ED%98%95%EC%9A%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "스디파",
+      "title": "โกโม พบ แมนยู",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%8A%A4%EB%94%94%ED%8C%8C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%E0%B9%82%E0%B8%81%E0%B9%82%E0%B8%A1+%E0%B8%9E%E0%B8%9A+%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%A2%E0%B8%B9&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "종전",
+      "title": "calcio como đấu với man utd",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A2%85%EC%A0%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=calcio+como+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+man+utd&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
