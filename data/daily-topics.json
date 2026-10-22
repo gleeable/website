@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-10-21 19:15:15",
-  "updated_at_kst": "2026-10-22 04:15:15",
+  "updated_at": "2026-10-22 19:10:14",
+  "updated_at_kst": "2026-10-23 04:10:14",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "바이에른 대 아스널",
+      "title": "솔리다임",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B0%94%EC%9D%B4%EC%97%90%EB%A5%B8+%EB%8C%80+%EC%95%84%EC%8A%A4%EB%84%90&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%86%94%EB%A6%AC%EB%8B%A4%EC%9E%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "레알 마드리드 대 라이프치히",
+      "title": "레흐 포즈난 대 선덜랜드",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%A0%88%EC%95%8C+%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C+%EB%8C%80+%EB%9D%BC%EC%9D%B4%ED%94%84%EC%B9%98%ED%9E%88&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A0%88%ED%9D%90+%ED%8F%AC%EC%A6%88%EB%82%9C+%EB%8C%80+%EC%84%A0%EB%8D%9C%EB%9E%9C%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "최형우",
+      "title": "크래프톤",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B5%9C%ED%98%95%EC%9A%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "โกโม พบ แมนยู",
+      "title": "야블로네츠 대 브라이턴",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%E0%B9%82%E0%B8%81%E0%B9%82%E0%B8%A1+%E0%B8%9E%E0%B8%9A+%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%A2%E0%B8%B9&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%BC%EB%B8%94%EB%A1%9C%EB%84%A4%EC%B8%A0+%EB%8C%80+%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%84%B4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "calcio como đấu với man utd",
+      "title": "리설주",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=calcio+como+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+man+utd&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A6%AC%EC%84%A4%EC%A3%BC&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
