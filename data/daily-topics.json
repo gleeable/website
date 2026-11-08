@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-11-07 19:21:42",
-  "updated_at_kst": "2026-11-08 04:21:42",
+  "updated_at": "2026-11-08 19:32:43",
+  "updated_at_kst": "2026-11-09 04:32:43",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "gta6",
+      "title": "프리미어리그 순위",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=gta6&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4%EB%A6%AC%EA%B7%B8+%EC%88%9C%EC%9C%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "노팅엄 포레스트 대 맨 시티",
+      "title": "sc 프라이부르크 대 우니온 베를린",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%85%B8%ED%8C%85%EC%97%84+%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8+%EB%8C%80+%EB%A7%A8+%EC%8B%9C%ED%8B%B0&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=sc+%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B6%80%EB%A5%B4%ED%81%AC+%EB%8C%80+%EC%9A%B0%EB%8B%88%EC%98%A8+%EB%B2%A0%EB%A5%BC%EB%A6%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "일본 지진",
+      "title": "베식타시 대 겐칠레르빌리이",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%BC%EB%B3%B8+%EC%A7%80%EC%A7%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B2%A0%EC%8B%9D%ED%83%80%EC%8B%9C+%EB%8C%80+%EA%B2%90%EC%B9%A0%EB%A0%88%EB%A5%B4%EB%B9%8C%EB%A6%AC%EC%9D%B4&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "이천수",
+      "title": "แมนยู พบ แอสตันวิลลา",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%9D%B4%EC%B2%9C%EC%88%98&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%A2%E0%B8%B9+%E0%B8%9E%E0%B8%9A+%E0%B9%81%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "복권",
+      "title": "man utd đấu với aston villa",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B3%B5%EA%B6%8C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=man+utd+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+aston+villa&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
