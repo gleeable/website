@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-11-14 19:52:41",
-  "updated_at_kst": "2026-11-15 04:52:41",
+  "updated_at": "2026-11-15 20:19:51",
+  "updated_at_kst": "2026-11-16 05:19:51",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "숲",
+      "title": "스페인 대 잉글랜드",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%88%B2&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%8A%A4%ED%8E%98%EC%9D%B8+%EB%8C%80+%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "blg",
+      "title": "공매도",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=blg&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EA%B3%B5%EB%A7%A4%EB%8F%84&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "lck",
+      "title": "빙그레",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=lck&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B9%99%EA%B7%B8%EB%A0%88&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "치지직",
+      "title": "아파트",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%B9%98%EC%A7%80%EC%A7%81&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%84%ED%8C%8C%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "norway vs wales",
+      "title": "스포츠조선",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=norway+vs+wales&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%8A%A4%ED%8F%AC%EC%B8%A0%EC%A1%B0%EC%84%A0&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
