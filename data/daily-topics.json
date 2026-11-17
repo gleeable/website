@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-11-16 23:42:52",
-  "updated_at_kst": "2026-11-17 08:42:52",
+  "updated_at": "2026-11-17 22:50:31",
+  "updated_at_kst": "2026-11-18 07:50:31",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "mu",
+      "title": "denmark vs norway",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=mu&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=denmark+vs+norway&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "nvda",
+      "title": "nvda stock",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=nvda&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=nvda+stock&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "앤트로픽 상장일",
+      "title": "보안 취약점",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD+%EC%83%81%EC%9E%A5%EC%9D%BC&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%B3%B4%EC%95%88+%EC%B7%A8%EC%95%BD%EC%A0%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "환승",
+      "title": "사고",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%99%98%EC%8A%B9&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%82%AC%EA%B3%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "날씨",
+      "title": "nations league",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%82%A0%EC%94%A8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=nations+league&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
