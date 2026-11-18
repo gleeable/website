@@ -1,17 +1,22 @@
 {
-  "updated_at": "2026-11-17 22:50:31",
-  "updated_at_kst": "2026-11-18 07:50:31",
+  "updated_at": "2026-11-18 22:32:52",
+  "updated_at_kst": "2026-11-19 07:32:52",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "denmark vs norway",
+      "title": "야구",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=denmark+vs+norway&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%BC%EA%B5%AC&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "nvda stock",
+      "title": "thời tiết",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=nvda+stock&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=th%E1%BB%9Di+ti%E1%BA%BFt&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "title": "백지연",
+      "summary": "오늘 급상승 검색어 기반 주제",
+      "news_url": "https://news.google.com/search?q=%EB%B0%B1%EC%A7%80%EC%97%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
       "title": "보안 취약점",
@@ -19,14 +24,9 @@
       "news_url": "https://news.google.com/search?q=%EB%B3%B4%EC%95%88+%EC%B7%A8%EC%95%BD%EC%A0%90&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "사고",
+      "title": "옥주현",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%82%AC%EA%B3%A0&hl=ko&gl=KR&ceid=KR:ko"
-    },
-    {
-      "title": "nations league",
-      "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=nations+league&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%98%A5%EC%A3%BC%ED%98%84&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
