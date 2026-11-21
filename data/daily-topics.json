@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-11-20 22:12:58",
-  "updated_at_kst": "2026-11-21 07:12:58",
+  "updated_at": "2026-11-21 20:52:16",
+  "updated_at_kst": "2026-11-22 05:52:16",
   "source": "https://trends.google.com/trending/rss?geo=KR",
   "topics": [
     {
-      "title": "비트코인",
+      "title": "입양",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9E%85%EC%96%91&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "포스코",
+      "title": "레알 마드리드 대 셀타 비고",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%ED%8F%AC%EC%8A%A4%EC%BD%94&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EB%A0%88%EC%95%8C+%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C+%EB%8C%80+%EC%85%80%ED%83%80+%EB%B9%84%EA%B3%A0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "생계",
+      "title": "위기",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%83%9D%EA%B3%84&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%9C%84%EA%B8%B0&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "김연경",
+      "title": "newcastle vs arsenal",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EA%B9%80%EC%97%B0%EA%B2%BD&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=newcastle+vs+arsenal&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
-      "title": "조원태",
+      "title": "아스날",
       "summary": "오늘 급상승 검색어 기반 주제",
-      "news_url": "https://news.google.com/search?q=%EC%A1%B0%EC%9B%90%ED%83%9C&hl=ko&gl=KR&ceid=KR:ko"
+      "news_url": "https://news.google.com/search?q=%EC%95%84%EC%8A%A4%EB%82%A0&hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
 }
